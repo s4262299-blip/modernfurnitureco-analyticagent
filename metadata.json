@@ -1,0 +1,6 @@
+{
+  "name": "ModernFurniture Co. Analytics Platform",
+  "description": "Natural language managerial analytics platform for ModernFurniture Co., delivering interactive bottleneck detection, profitability analysis, and customizable executive dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
