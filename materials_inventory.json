@@ -1,0 +1,4802 @@
+[
+  {
+    "date": "2025-01-02",
+    "material": "Tasmanian Oak",
+    "type": "REORDER",
+    "quantity": "10",
+    "orderId": "N/A",
+    "newLevel": "15"
+  },
+  {
+    "date": "2025-01-06",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "105",
+    "newLevel": "13"
+  },
+  {
+    "date": "2025-01-08",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "108",
+    "newLevel": "3"
+  },
+  {
+    "date": "2025-01-08",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "109",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-01-08",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-01-10",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "110",
+    "newLevel": "3"
+  },
+  {
+    "date": "2025-01-10",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-01-11",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "113",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-01-14",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "119",
+    "newLevel": "7"
+  },
+  {
+    "date": "2025-01-15",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "120",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-01-15",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "121",
+    "newLevel": "7"
+  },
+  {
+    "date": "2025-01-17",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "123",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-01-21",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "129",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-01-21",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "130",
+    "newLevel": "7"
+  },
+  {
+    "date": "2025-01-27",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "139",
+    "newLevel": "4"
+  },
+  {
+    "date": "2025-01-29",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "140",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-02-02",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "144",
+    "newLevel": "3"
+  },
+  {
+    "date": "2025-02-02",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-02-04",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "144",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-02-04",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "147",
+    "newLevel": "2"
+  },
+  {
+    "date": "2025-02-04",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "10"
+  },
+  {
+    "date": "2025-02-06",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "149",
+    "newLevel": "8"
+  },
+  {
+    "date": "2025-02-09",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "154",
+    "newLevel": "6"
+  },
+  {
+    "date": "2025-02-10",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "155",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-02-10",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "156",
+    "newLevel": "4"
+  },
+  {
+    "date": "2025-02-10",
+    "material": "Tasmanian Oak",
+    "type": "REORDER",
+    "quantity": "10",
+    "orderId": "N/A",
+    "newLevel": "15"
+  },
+  {
+    "date": "2025-02-13",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "160",
+    "newLevel": "7"
+  },
+  {
+    "date": "2025-02-15",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "164",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-02-18",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "165",
+    "newLevel": "2"
+  },
+  {
+    "date": "2025-02-18",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "167",
+    "newLevel": "3"
+  },
+  {
+    "date": "2025-02-18",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "10"
+  },
+  {
+    "date": "2025-02-18",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-02-23",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "174",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-02-23",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "176",
+    "newLevel": "7"
+  },
+  {
+    "date": "2025-02-25",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "177",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-02-26",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "180",
+    "newLevel": "3"
+  },
+  {
+    "date": "2025-02-26",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-02-27",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "183",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-03-02",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "185",
+    "newLevel": "7"
+  },
+  {
+    "date": "2025-03-03",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "187",
+    "newLevel": "8"
+  },
+  {
+    "date": "2025-03-04",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "189",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-03-04",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "190",
+    "newLevel": "3"
+  },
+  {
+    "date": "2025-03-04",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-03-06",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "193",
+    "newLevel": "6"
+  },
+  {
+    "date": "2025-03-07",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "194",
+    "newLevel": "13"
+  },
+  {
+    "date": "2025-03-08",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "3",
+    "orderId": "195",
+    "newLevel": "10"
+  },
+  {
+    "date": "2025-03-10",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "197",
+    "newLevel": "8"
+  },
+  {
+    "date": "2025-03-10",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "198",
+    "newLevel": "4"
+  },
+  {
+    "date": "2025-03-13",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "200",
+    "newLevel": "6"
+  },
+  {
+    "date": "2025-03-16",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "209",
+    "newLevel": "2"
+  },
+  {
+    "date": "2025-03-16",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "210",
+    "newLevel": "0"
+  },
+  {
+    "date": "2025-03-16",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "8"
+  },
+  {
+    "date": "2025-03-17",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "211",
+    "newLevel": "6"
+  },
+  {
+    "date": "2025-03-18",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "214",
+    "newLevel": "4"
+  },
+  {
+    "date": "2025-03-19",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "3",
+    "orderId": "213",
+    "newLevel": "3"
+  },
+  {
+    "date": "2025-03-19",
+    "material": "Tasmanian Oak",
+    "type": "REORDER",
+    "quantity": "10",
+    "orderId": "N/A",
+    "newLevel": "13"
+  },
+  {
+    "date": "2025-03-20",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "216",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-03-22",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "216",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-03-22",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "217",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-03-25",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "218",
+    "newLevel": "7"
+  },
+  {
+    "date": "2025-03-25",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "221",
+    "newLevel": "2"
+  },
+  {
+    "date": "2025-03-25",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "10"
+  },
+  {
+    "date": "2025-03-26",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "222",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-03-26",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "227",
+    "newLevel": "8"
+  },
+  {
+    "date": "2025-03-27",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "218",
+    "newLevel": "3"
+  },
+  {
+    "date": "2025-03-27",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-03-30",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "226",
+    "newLevel": "6"
+  },
+  {
+    "date": "2025-03-30",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "229",
+    "newLevel": "7"
+  },
+  {
+    "date": "2025-03-31",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "231",
+    "newLevel": "4"
+  },
+  {
+    "date": "2025-04-02",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "233",
+    "newLevel": "2"
+  },
+  {
+    "date": "2025-04-02",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "236",
+    "newLevel": "6"
+  },
+  {
+    "date": "2025-04-02",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "10"
+  },
+  {
+    "date": "2025-04-03",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "240",
+    "newLevel": "4"
+  },
+  {
+    "date": "2025-04-03",
+    "material": "Tasmanian Oak",
+    "type": "REORDER",
+    "quantity": "10",
+    "orderId": "N/A",
+    "newLevel": "14"
+  },
+  {
+    "date": "2025-04-04",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "241",
+    "newLevel": "8"
+  },
+  {
+    "date": "2025-04-08",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "246",
+    "newLevel": "13"
+  },
+  {
+    "date": "2025-04-09",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "251",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-04-09",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "252",
+    "newLevel": "6"
+  },
+  {
+    "date": "2025-04-10",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "257",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-04-11",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "256",
+    "newLevel": "7"
+  },
+  {
+    "date": "2025-04-13",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "251",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-04-15",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "259",
+    "newLevel": "3"
+  },
+  {
+    "date": "2025-04-15",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "261",
+    "newLevel": "3"
+  },
+  {
+    "date": "2025-04-15",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-04-15",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-04-16",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "264",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-04-16",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "267",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-04-17",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "268",
+    "newLevel": "8"
+  },
+  {
+    "date": "2025-04-19",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "271",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-04-23",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "272",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-04-24",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "276",
+    "newLevel": "7"
+  },
+  {
+    "date": "2025-04-24",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "279",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-04-24",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "282",
+    "newLevel": "8"
+  },
+  {
+    "date": "2025-04-27",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "285",
+    "newLevel": "6"
+  },
+  {
+    "date": "2025-04-28",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "291",
+    "newLevel": "6"
+  },
+  {
+    "date": "2025-04-30",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "293",
+    "newLevel": "4"
+  },
+  {
+    "date": "2025-04-30",
+    "material": "Tasmanian Oak",
+    "type": "REORDER",
+    "quantity": "10",
+    "orderId": "N/A",
+    "newLevel": "14"
+  },
+  {
+    "date": "2025-05-01",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "294",
+    "newLevel": "4"
+  },
+  {
+    "date": "2025-05-01",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "297",
+    "newLevel": "2"
+  },
+  {
+    "date": "2025-05-01",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "10"
+  },
+  {
+    "date": "2025-05-03",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "3",
+    "orderId": "299",
+    "newLevel": "2"
+  },
+  {
+    "date": "2025-05-03",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "10"
+  },
+  {
+    "date": "2025-05-06",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "309",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-05-07",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "3",
+    "orderId": "306",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-05-08",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "310",
+    "newLevel": "8"
+  },
+  {
+    "date": "2025-05-13",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "317",
+    "newLevel": "6"
+  },
+  {
+    "date": "2025-05-13",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "318",
+    "newLevel": "7"
+  },
+  {
+    "date": "2025-05-15",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "321",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-05-16",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "322",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-05-16",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "323",
+    "newLevel": "4"
+  },
+  {
+    "date": "2025-05-16",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "12"
+  },
+  {
+    "date": "2025-05-18",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "325",
+    "newLevel": "7"
+  },
+  {
+    "date": "2025-05-19",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "327",
+    "newLevel": "10"
+  },
+  {
+    "date": "2025-05-23",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "331",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-05-23",
+    "material": "Tasmanian Oak",
+    "type": "REORDER",
+    "quantity": "10",
+    "orderId": "N/A",
+    "newLevel": "15"
+  },
+  {
+    "date": "2025-05-24",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "332",
+    "newLevel": "8"
+  },
+  {
+    "date": "2025-05-25",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "3",
+    "orderId": "334",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-05-26",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "337",
+    "newLevel": "3"
+  },
+  {
+    "date": "2025-05-26",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-05-27",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "339",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-05-27",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "340",
+    "newLevel": "4"
+  },
+  {
+    "date": "2025-05-28",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "342",
+    "newLevel": "13"
+  },
+  {
+    "date": "2025-05-31",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "342",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-06-01",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "349",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-06-03",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "355",
+    "newLevel": "2"
+  },
+  {
+    "date": "2025-06-03",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "10"
+  },
+  {
+    "date": "2025-06-04",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "357",
+    "newLevel": "8"
+  },
+  {
+    "date": "2025-06-05",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "358",
+    "newLevel": "7"
+  },
+  {
+    "date": "2025-06-08",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "362",
+    "newLevel": "6"
+  },
+  {
+    "date": "2025-06-09",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "361",
+    "newLevel": "7"
+  },
+  {
+    "date": "2025-06-10",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "363",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-06-10",
+    "material": "Tasmanian Oak",
+    "type": "REORDER",
+    "quantity": "10",
+    "orderId": "N/A",
+    "newLevel": "15"
+  },
+  {
+    "date": "2025-06-12",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "367",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-06-15",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "371",
+    "newLevel": "3"
+  },
+  {
+    "date": "2025-06-15",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "372",
+    "newLevel": "14"
+  },
+  {
+    "date": "2025-06-15",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-06-17",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "373",
+    "newLevel": "12"
+  },
+  {
+    "date": "2025-06-19",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "377",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-06-22",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "379",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-06-23",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "381",
+    "newLevel": "10"
+  },
+  {
+    "date": "2025-06-25",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "382",
+    "newLevel": "8"
+  },
+  {
+    "date": "2025-06-26",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "385",
+    "newLevel": "6"
+  },
+  {
+    "date": "2025-06-28",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "386",
+    "newLevel": "7"
+  },
+  {
+    "date": "2025-06-30",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "387",
+    "newLevel": "4"
+  },
+  {
+    "date": "2025-06-30",
+    "material": "Tasmanian Oak",
+    "type": "REORDER",
+    "quantity": "10",
+    "orderId": "N/A",
+    "newLevel": "14"
+  },
+  {
+    "date": "2025-07-01",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "388",
+    "newLevel": "12"
+  },
+  {
+    "date": "2025-07-01",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "389",
+    "newLevel": "10"
+  },
+  {
+    "date": "2025-07-01",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "390",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-07-04",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "393",
+    "newLevel": "3"
+  },
+  {
+    "date": "2025-07-04",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-07-06",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "395",
+    "newLevel": "10"
+  },
+  {
+    "date": "2025-07-07",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "397",
+    "newLevel": "4"
+  },
+  {
+    "date": "2025-07-08",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "398",
+    "newLevel": "8"
+  },
+  {
+    "date": "2025-07-11",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "402",
+    "newLevel": "8"
+  },
+  {
+    "date": "2025-07-12",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "403",
+    "newLevel": "6"
+  },
+  {
+    "date": "2025-07-13",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "404",
+    "newLevel": "6"
+  },
+  {
+    "date": "2025-07-13",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "405",
+    "newLevel": "4"
+  },
+  {
+    "date": "2025-07-13",
+    "material": "Tasmanian Oak",
+    "type": "REORDER",
+    "quantity": "10",
+    "orderId": "N/A",
+    "newLevel": "14"
+  },
+  {
+    "date": "2025-07-14",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "406",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-07-17",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "409",
+    "newLevel": "2"
+  },
+  {
+    "date": "2025-07-17",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "10"
+  },
+  {
+    "date": "2025-07-18",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "410",
+    "newLevel": "3"
+  },
+  {
+    "date": "2025-07-18",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "411",
+    "newLevel": "1"
+  },
+  {
+    "date": "2025-07-18",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-07-20",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "412",
+    "newLevel": "8"
+  },
+  {
+    "date": "2025-07-21",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "413",
+    "newLevel": "7"
+  },
+  {
+    "date": "2025-07-21",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "414",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-07-22",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "415",
+    "newLevel": "6"
+  },
+  {
+    "date": "2025-07-26",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "421",
+    "newLevel": "3"
+  },
+  {
+    "date": "2025-07-26",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-07-28",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "424",
+    "newLevel": "10"
+  },
+  {
+    "date": "2025-07-28",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "425",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-07-29",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "426",
+    "newLevel": "13"
+  },
+  {
+    "date": "2025-07-30",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "427",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-07-31",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "428",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-08-01",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "430",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-08-06",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "437",
+    "newLevel": "3"
+  },
+  {
+    "date": "2025-08-06",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-08-07",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "438",
+    "newLevel": "10"
+  },
+  {
+    "date": "2025-08-07",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "439",
+    "newLevel": "7"
+  },
+  {
+    "date": "2025-08-08",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "440",
+    "newLevel": "7"
+  },
+  {
+    "date": "2025-08-09",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "442",
+    "newLevel": "8"
+  },
+  {
+    "date": "2025-08-13",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "446",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-08-13",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "447",
+    "newLevel": "7"
+  },
+  {
+    "date": "2025-08-13",
+    "material": "Tasmanian Oak",
+    "type": "REORDER",
+    "quantity": "10",
+    "orderId": "N/A",
+    "newLevel": "15"
+  },
+  {
+    "date": "2025-08-14",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "448",
+    "newLevel": "6"
+  },
+  {
+    "date": "2025-08-15",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "448",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-08-15",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "450",
+    "newLevel": "13"
+  },
+  {
+    "date": "2025-08-16",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "451",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-08-17",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "453",
+    "newLevel": "3"
+  },
+  {
+    "date": "2025-08-17",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-08-18",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "454",
+    "newLevel": "10"
+  },
+  {
+    "date": "2025-08-20",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "455",
+    "newLevel": "8"
+  },
+  {
+    "date": "2025-08-21",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "458",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-08-24",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "461",
+    "newLevel": "6"
+  },
+  {
+    "date": "2025-08-26",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "3",
+    "orderId": "462",
+    "newLevel": "3"
+  },
+  {
+    "date": "2025-08-26",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "463",
+    "newLevel": "7"
+  },
+  {
+    "date": "2025-08-26",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-08-29",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "466",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-08-30",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "467",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-08-31",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "466",
+    "newLevel": "3"
+  },
+  {
+    "date": "2025-08-31",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "469",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-08-31",
+    "material": "Tasmanian Oak",
+    "type": "REORDER",
+    "quantity": "10",
+    "orderId": "N/A",
+    "newLevel": "15"
+  },
+  {
+    "date": "2025-08-31",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-09-01",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "470",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-09-01",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "471",
+    "newLevel": "7"
+  },
+  {
+    "date": "2025-09-06",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "3",
+    "orderId": "476",
+    "newLevel": "4"
+  },
+  {
+    "date": "2025-09-06",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "478",
+    "newLevel": "2"
+  },
+  {
+    "date": "2025-09-06",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "10"
+  },
+  {
+    "date": "2025-09-08",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "480",
+    "newLevel": "7"
+  },
+  {
+    "date": "2025-09-08",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "481",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-09-11",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "483",
+    "newLevel": "13"
+  },
+  {
+    "date": "2025-09-11",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "484",
+    "newLevel": "4"
+  },
+  {
+    "date": "2025-09-11",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "486",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-09-11",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "12"
+  },
+  {
+    "date": "2025-09-12",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "490",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-09-15",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "3",
+    "orderId": "488",
+    "newLevel": "7"
+  },
+  {
+    "date": "2025-09-16",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "492",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-09-16",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "494",
+    "newLevel": "7"
+  },
+  {
+    "date": "2025-09-16",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "497",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-09-18",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "498",
+    "newLevel": "3"
+  },
+  {
+    "date": "2025-09-18",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-09-19",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "3",
+    "orderId": "488",
+    "newLevel": "4"
+  },
+  {
+    "date": "2025-09-19",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "500",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-09-23",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "502",
+    "newLevel": "2"
+  },
+  {
+    "date": "2025-09-23",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "10"
+  },
+  {
+    "date": "2025-09-24",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "504",
+    "newLevel": "7"
+  },
+  {
+    "date": "2025-09-24",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "505",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-09-27",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "509",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-09-27",
+    "material": "Tasmanian Oak",
+    "type": "REORDER",
+    "quantity": "10",
+    "orderId": "N/A",
+    "newLevel": "15"
+  },
+  {
+    "date": "2025-09-28",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "510",
+    "newLevel": "8"
+  },
+  {
+    "date": "2025-09-30",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "509",
+    "newLevel": "13"
+  },
+  {
+    "date": "2025-10-01",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "512",
+    "newLevel": "6"
+  },
+  {
+    "date": "2025-10-02",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "515",
+    "newLevel": "4"
+  },
+  {
+    "date": "2025-10-04",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "516",
+    "newLevel": "2"
+  },
+  {
+    "date": "2025-10-04",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "517",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-10-04",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "10"
+  },
+  {
+    "date": "2025-10-06",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "518",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-10-06",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "521",
+    "newLevel": "8"
+  },
+  {
+    "date": "2025-10-07",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "523",
+    "newLevel": "7"
+  },
+  {
+    "date": "2025-10-09",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "525",
+    "newLevel": "7"
+  },
+  {
+    "date": "2025-10-10",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "531",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-10-11",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "3",
+    "orderId": "533",
+    "newLevel": "2"
+  },
+  {
+    "date": "2025-10-11",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "10"
+  },
+  {
+    "date": "2025-10-13",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "538",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-10-14",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "540",
+    "newLevel": "8"
+  },
+  {
+    "date": "2025-10-15",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "538",
+    "newLevel": "3"
+  },
+  {
+    "date": "2025-10-15",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "541",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-10-15",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "546",
+    "newLevel": "8"
+  },
+  {
+    "date": "2025-10-15",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-10-17",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "547",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-10-19",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "548",
+    "newLevel": "6"
+  },
+  {
+    "date": "2025-10-22",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "549",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-10-22",
+    "material": "Tasmanian Oak",
+    "type": "REORDER",
+    "quantity": "10",
+    "orderId": "N/A",
+    "newLevel": "15"
+  },
+  {
+    "date": "2025-10-23",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "550",
+    "newLevel": "7"
+  },
+  {
+    "date": "2025-10-24",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "551",
+    "newLevel": "13"
+  },
+  {
+    "date": "2025-10-25",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "552",
+    "newLevel": "6"
+  },
+  {
+    "date": "2025-10-25",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "555",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-10-25",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "556",
+    "newLevel": "3"
+  },
+  {
+    "date": "2025-10-25",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-10-26",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "557",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-10-28",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "559",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-10-29",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "567",
+    "newLevel": "7"
+  },
+  {
+    "date": "2025-10-30",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "568",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-11-01",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "3",
+    "orderId": "569",
+    "newLevel": "6"
+  },
+  {
+    "date": "2025-11-03",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "570",
+    "newLevel": "4"
+  },
+  {
+    "date": "2025-11-03",
+    "material": "Tasmanian Oak",
+    "type": "REORDER",
+    "quantity": "10",
+    "orderId": "N/A",
+    "newLevel": "14"
+  },
+  {
+    "date": "2025-11-05",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "573",
+    "newLevel": "13"
+  },
+  {
+    "date": "2025-11-05",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "574",
+    "newLevel": "12"
+  },
+  {
+    "date": "2025-11-07",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "575",
+    "newLevel": "6"
+  },
+  {
+    "date": "2025-11-08",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "577",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-11-09",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "579",
+    "newLevel": "3"
+  },
+  {
+    "date": "2025-11-09",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "581",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-11-09",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-11-10",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "582",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-11-11",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "584",
+    "newLevel": "7"
+  },
+  {
+    "date": "2025-11-12",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "588",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-11-12",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "591",
+    "newLevel": "3"
+  },
+  {
+    "date": "2025-11-12",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-11-13",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "3",
+    "orderId": "592",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-11-15",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "594",
+    "newLevel": "7"
+  },
+  {
+    "date": "2025-11-16",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "596",
+    "newLevel": "6"
+  },
+  {
+    "date": "2025-11-18",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "598",
+    "newLevel": "3"
+  },
+  {
+    "date": "2025-11-18",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-11-19",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "599",
+    "newLevel": "4"
+  },
+  {
+    "date": "2025-11-19",
+    "material": "Tasmanian Oak",
+    "type": "REORDER",
+    "quantity": "10",
+    "orderId": "N/A",
+    "newLevel": "14"
+  },
+  {
+    "date": "2025-11-21",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "603",
+    "newLevel": "12"
+  },
+  {
+    "date": "2025-11-21",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "604",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-11-22",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "609",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-11-22",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "617",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-11-26",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "622",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-11-27",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "627",
+    "newLevel": "7"
+  },
+  {
+    "date": "2025-11-28",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "632",
+    "newLevel": "8"
+  },
+  {
+    "date": "2025-11-30",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "633",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-12-07",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "642",
+    "newLevel": "4"
+  },
+  {
+    "date": "2025-12-07",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "12"
+  },
+  {
+    "date": "2025-12-09",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "644",
+    "newLevel": "10"
+  },
+  {
+    "date": "2025-12-11",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "647",
+    "newLevel": "8"
+  },
+  {
+    "date": "2025-12-13",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "649",
+    "newLevel": "6"
+  },
+  {
+    "date": "2025-12-14",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "647",
+    "newLevel": "6"
+  },
+  {
+    "date": "2025-12-15",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "651",
+    "newLevel": "4"
+  },
+  {
+    "date": "2025-12-15",
+    "material": "Tasmanian Oak",
+    "type": "REORDER",
+    "quantity": "10",
+    "orderId": "N/A",
+    "newLevel": "14"
+  },
+  {
+    "date": "2025-12-16",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "654",
+    "newLevel": "4"
+  },
+  {
+    "date": "2025-12-16",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "12"
+  },
+  {
+    "date": "2025-12-19",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "657",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-12-20",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "658",
+    "newLevel": "12"
+  },
+  {
+    "date": "2025-12-21",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "660",
+    "newLevel": "11"
+  },
+  {
+    "date": "2025-12-22",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "661",
+    "newLevel": "9"
+  },
+  {
+    "date": "2025-12-24",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "662",
+    "newLevel": "7"
+  },
+  {
+    "date": "2025-12-28",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "668",
+    "newLevel": "5"
+  },
+  {
+    "date": "2025-12-29",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "671",
+    "newLevel": "10"
+  },
+  {
+    "date": "2025-12-30",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "672",
+    "newLevel": "9"
+  },
+  {
+    "date": "2026-01-01",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "674",
+    "newLevel": "7"
+  },
+  {
+    "date": "2026-01-02",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "676",
+    "newLevel": "3"
+  },
+  {
+    "date": "2026-01-02",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2026-01-04",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "679",
+    "newLevel": "9"
+  },
+  {
+    "date": "2026-01-05",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "679",
+    "newLevel": "7"
+  },
+  {
+    "date": "2026-01-05",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "680",
+    "newLevel": "5"
+  },
+  {
+    "date": "2026-01-05",
+    "material": "Tasmanian Oak",
+    "type": "REORDER",
+    "quantity": "10",
+    "orderId": "N/A",
+    "newLevel": "15"
+  },
+  {
+    "date": "2026-01-07",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "684",
+    "newLevel": "5"
+  },
+  {
+    "date": "2026-01-09",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "686",
+    "newLevel": "3"
+  },
+  {
+    "date": "2026-01-09",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2026-01-12",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "692",
+    "newLevel": "8"
+  },
+  {
+    "date": "2026-01-13",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "691",
+    "newLevel": "13"
+  },
+  {
+    "date": "2026-01-16",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "695",
+    "newLevel": "6"
+  },
+  {
+    "date": "2026-01-19",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "3",
+    "orderId": "701",
+    "newLevel": "8"
+  },
+  {
+    "date": "2026-01-22",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "707",
+    "newLevel": "11"
+  },
+  {
+    "date": "2026-01-25",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "709",
+    "newLevel": "4"
+  },
+  {
+    "date": "2026-01-25",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "711",
+    "newLevel": "9"
+  },
+  {
+    "date": "2026-01-25",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "12"
+  },
+  {
+    "date": "2026-01-27",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "713",
+    "newLevel": "10"
+  },
+  {
+    "date": "2026-01-29",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "709",
+    "newLevel": "8"
+  },
+  {
+    "date": "2026-01-31",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "719",
+    "newLevel": "6"
+  },
+  {
+    "date": "2026-02-01",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "721",
+    "newLevel": "6"
+  },
+  {
+    "date": "2026-02-02",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "722",
+    "newLevel": "4"
+  },
+  {
+    "date": "2026-02-02",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "723",
+    "newLevel": "4"
+  },
+  {
+    "date": "2026-02-02",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "12"
+  },
+  {
+    "date": "2026-02-06",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "727",
+    "newLevel": "7"
+  },
+  {
+    "date": "2026-02-07",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "728",
+    "newLevel": "10"
+  },
+  {
+    "date": "2026-02-08",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "730",
+    "newLevel": "6"
+  },
+  {
+    "date": "2026-02-11",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "732",
+    "newLevel": "2"
+  },
+  {
+    "date": "2026-02-11",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "10"
+  },
+  {
+    "date": "2026-02-12",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "734",
+    "newLevel": "4"
+  },
+  {
+    "date": "2026-02-12",
+    "material": "Tasmanian Oak",
+    "type": "REORDER",
+    "quantity": "10",
+    "orderId": "N/A",
+    "newLevel": "14"
+  },
+  {
+    "date": "2026-02-13",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "736",
+    "newLevel": "12"
+  },
+  {
+    "date": "2026-02-13",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "737",
+    "newLevel": "8"
+  },
+  {
+    "date": "2026-02-14",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "738",
+    "newLevel": "6"
+  },
+  {
+    "date": "2026-02-16",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "740",
+    "newLevel": "11"
+  },
+  {
+    "date": "2026-02-19",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "743",
+    "newLevel": "8"
+  },
+  {
+    "date": "2026-02-21",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "746",
+    "newLevel": "4"
+  },
+  {
+    "date": "2026-02-21",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "12"
+  },
+  {
+    "date": "2026-02-23",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "3",
+    "orderId": "748",
+    "newLevel": "5"
+  },
+  {
+    "date": "2026-02-26",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "753",
+    "newLevel": "4"
+  },
+  {
+    "date": "2026-02-28",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "755",
+    "newLevel": "10"
+  },
+  {
+    "date": "2026-03-01",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "3",
+    "orderId": "756",
+    "newLevel": "1"
+  },
+  {
+    "date": "2026-03-01",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "9"
+  },
+  {
+    "date": "2026-03-03",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "758",
+    "newLevel": "9"
+  },
+  {
+    "date": "2026-03-03",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "762",
+    "newLevel": "8"
+  },
+  {
+    "date": "2026-03-06",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "767",
+    "newLevel": "7"
+  },
+  {
+    "date": "2026-03-07",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "768",
+    "newLevel": "8"
+  },
+  {
+    "date": "2026-03-09",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "772",
+    "newLevel": "6"
+  },
+  {
+    "date": "2026-03-14",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "782",
+    "newLevel": "4"
+  },
+  {
+    "date": "2026-03-14",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "783",
+    "newLevel": "6"
+  },
+  {
+    "date": "2026-03-14",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "12"
+  },
+  {
+    "date": "2026-03-18",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "3",
+    "orderId": "786",
+    "newLevel": "9"
+  },
+  {
+    "date": "2026-03-19",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "788",
+    "newLevel": "6"
+  },
+  {
+    "date": "2026-03-20",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "3",
+    "orderId": "789",
+    "newLevel": "3"
+  },
+  {
+    "date": "2026-03-20",
+    "material": "Tasmanian Oak",
+    "type": "REORDER",
+    "quantity": "10",
+    "orderId": "N/A",
+    "newLevel": "13"
+  },
+  {
+    "date": "2026-03-21",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "3",
+    "orderId": "792",
+    "newLevel": "6"
+  },
+  {
+    "date": "2026-03-21",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "794",
+    "newLevel": "4"
+  },
+  {
+    "date": "2026-03-21",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "12"
+  },
+  {
+    "date": "2026-03-23",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "796",
+    "newLevel": "11"
+  },
+  {
+    "date": "2026-03-24",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "799",
+    "newLevel": "4"
+  },
+  {
+    "date": "2026-03-26",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "799",
+    "newLevel": "2"
+  },
+  {
+    "date": "2026-03-26",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "801",
+    "newLevel": "10"
+  },
+  {
+    "date": "2026-03-26",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "10"
+  },
+  {
+    "date": "2026-03-31",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "802",
+    "newLevel": "9"
+  },
+  {
+    "date": "2026-03-31",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "803",
+    "newLevel": "8"
+  },
+  {
+    "date": "2026-04-01",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "804",
+    "newLevel": "7"
+  },
+  {
+    "date": "2026-04-03",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "803",
+    "newLevel": "6"
+  },
+  {
+    "date": "2026-04-03",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "806",
+    "newLevel": "8"
+  },
+  {
+    "date": "2026-04-03",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "807",
+    "newLevel": "5"
+  },
+  {
+    "date": "2026-04-03",
+    "material": "Tasmanian Oak",
+    "type": "REORDER",
+    "quantity": "10",
+    "orderId": "N/A",
+    "newLevel": "15"
+  },
+  {
+    "date": "2026-04-05",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "809",
+    "newLevel": "4"
+  },
+  {
+    "date": "2026-04-05",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "12"
+  },
+  {
+    "date": "2026-04-06",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "813",
+    "newLevel": "6"
+  },
+  {
+    "date": "2026-04-06",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "814",
+    "newLevel": "4"
+  },
+  {
+    "date": "2026-04-08",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "816",
+    "newLevel": "13"
+  },
+  {
+    "date": "2026-04-09",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "820",
+    "newLevel": "2"
+  },
+  {
+    "date": "2026-04-09",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "10"
+  },
+  {
+    "date": "2026-04-10",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "822",
+    "newLevel": "11"
+  },
+  {
+    "date": "2026-04-11",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "824",
+    "newLevel": "9"
+  },
+  {
+    "date": "2026-04-13",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "828",
+    "newLevel": "10"
+  },
+  {
+    "date": "2026-04-15",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "829",
+    "newLevel": "9"
+  },
+  {
+    "date": "2026-04-16",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "830",
+    "newLevel": "8"
+  },
+  {
+    "date": "2026-04-18",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "833",
+    "newLevel": "7"
+  },
+  {
+    "date": "2026-04-18",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "834",
+    "newLevel": "6"
+  },
+  {
+    "date": "2026-04-18",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "835",
+    "newLevel": "7"
+  },
+  {
+    "date": "2026-04-18",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "837",
+    "newLevel": "5"
+  },
+  {
+    "date": "2026-04-18",
+    "material": "Tasmanian Oak",
+    "type": "REORDER",
+    "quantity": "10",
+    "orderId": "N/A",
+    "newLevel": "15"
+  },
+  {
+    "date": "2026-04-21",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "841",
+    "newLevel": "13"
+  },
+  {
+    "date": "2026-04-21",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "843",
+    "newLevel": "4"
+  },
+  {
+    "date": "2026-04-22",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "846",
+    "newLevel": "2"
+  },
+  {
+    "date": "2026-04-22",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "10"
+  },
+  {
+    "date": "2026-04-26",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "847",
+    "newLevel": "6"
+  },
+  {
+    "date": "2026-04-26",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "849",
+    "newLevel": "4"
+  },
+  {
+    "date": "2026-04-26",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "12"
+  },
+  {
+    "date": "2026-04-27",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "850",
+    "newLevel": "10"
+  },
+  {
+    "date": "2026-04-28",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "851",
+    "newLevel": "11"
+  },
+  {
+    "date": "2026-04-29",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "852",
+    "newLevel": "8"
+  },
+  {
+    "date": "2026-05-02",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "854",
+    "newLevel": "8"
+  },
+  {
+    "date": "2026-05-03",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "855",
+    "newLevel": "6"
+  },
+  {
+    "date": "2026-05-03",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "856",
+    "newLevel": "6"
+  },
+  {
+    "date": "2026-05-04",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "3",
+    "orderId": "860",
+    "newLevel": "8"
+  },
+  {
+    "date": "2026-05-05",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "864",
+    "newLevel": "5"
+  },
+  {
+    "date": "2026-05-06",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "856",
+    "newLevel": "3"
+  },
+  {
+    "date": "2026-05-06",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "867",
+    "newLevel": "6"
+  },
+  {
+    "date": "2026-05-06",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2026-05-07",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "873",
+    "newLevel": "5"
+  },
+  {
+    "date": "2026-05-09",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "874",
+    "newLevel": "4"
+  },
+  {
+    "date": "2026-05-09",
+    "material": "Tasmanian Oak",
+    "type": "REORDER",
+    "quantity": "10",
+    "orderId": "N/A",
+    "newLevel": "14"
+  },
+  {
+    "date": "2026-05-10",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "876",
+    "newLevel": "3"
+  },
+  {
+    "date": "2026-05-10",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2026-05-11",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "879",
+    "newLevel": "9"
+  },
+  {
+    "date": "2026-05-12",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "880",
+    "newLevel": "9"
+  },
+  {
+    "date": "2026-05-12",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "882",
+    "newLevel": "7"
+  },
+  {
+    "date": "2026-05-17",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "883",
+    "newLevel": "7"
+  },
+  {
+    "date": "2026-05-17",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "884",
+    "newLevel": "12"
+  },
+  {
+    "date": "2026-05-17",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "885",
+    "newLevel": "6"
+  },
+  {
+    "date": "2026-05-18",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "886",
+    "newLevel": "5"
+  },
+  {
+    "date": "2026-05-19",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "891",
+    "newLevel": "3"
+  },
+  {
+    "date": "2026-05-19",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2026-05-20",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "891",
+    "newLevel": "9"
+  },
+  {
+    "date": "2026-05-23",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "892",
+    "newLevel": "7"
+  },
+  {
+    "date": "2026-05-23",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "894",
+    "newLevel": "5"
+  },
+  {
+    "date": "2026-05-24",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "900",
+    "newLevel": "3"
+  },
+  {
+    "date": "2026-05-24",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "902",
+    "newLevel": "4"
+  },
+  {
+    "date": "2026-05-24",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2026-05-24",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "12"
+  },
+  {
+    "date": "2026-05-29",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "906",
+    "newLevel": "9"
+  },
+  {
+    "date": "2026-05-31",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "911",
+    "newLevel": "10"
+  },
+  {
+    "date": "2026-06-03",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "915",
+    "newLevel": "10"
+  },
+  {
+    "date": "2026-06-04",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "913",
+    "newLevel": "8"
+  },
+  {
+    "date": "2026-06-10",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "922",
+    "newLevel": "8"
+  },
+  {
+    "date": "2026-06-11",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "923",
+    "newLevel": "6"
+  },
+  {
+    "date": "2026-06-12",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "924",
+    "newLevel": "7"
+  },
+  {
+    "date": "2026-06-14",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "3",
+    "orderId": "925",
+    "newLevel": "3"
+  },
+  {
+    "date": "2026-06-14",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2026-06-15",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "927",
+    "newLevel": "9"
+  },
+  {
+    "date": "2026-06-16",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "928",
+    "newLevel": "6"
+  },
+  {
+    "date": "2026-06-19",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "930",
+    "newLevel": "7"
+  },
+  {
+    "date": "2026-06-20",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "931",
+    "newLevel": "5"
+  },
+  {
+    "date": "2026-06-25",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "937",
+    "newLevel": "3"
+  },
+  {
+    "date": "2026-06-25",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2026-06-28",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "939",
+    "newLevel": "4"
+  },
+  {
+    "date": "2026-06-28",
+    "material": "Tasmanian Oak",
+    "type": "REORDER",
+    "quantity": "10",
+    "orderId": "N/A",
+    "newLevel": "14"
+  },
+  {
+    "date": "2026-07-02",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "944",
+    "newLevel": "6"
+  },
+  {
+    "date": "2026-07-06",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "948",
+    "newLevel": "12"
+  },
+  {
+    "date": "2026-07-16",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "957",
+    "newLevel": "9"
+  },
+  {
+    "date": "2026-07-20",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "961",
+    "newLevel": "7"
+  },
+  {
+    "date": "2026-07-21",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "963",
+    "newLevel": "4"
+  },
+  {
+    "date": "2026-07-21",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "12"
+  },
+  {
+    "date": "2026-07-26",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "969",
+    "newLevel": "10"
+  },
+  {
+    "date": "2026-07-28",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "968",
+    "newLevel": "11"
+  },
+  {
+    "date": "2026-07-29",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "971",
+    "newLevel": "9"
+  },
+  {
+    "date": "2026-07-29",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "973",
+    "newLevel": "5"
+  },
+  {
+    "date": "2026-07-30",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "974",
+    "newLevel": "7"
+  },
+  {
+    "date": "2026-08-02",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "977",
+    "newLevel": "3"
+  },
+  {
+    "date": "2026-08-02",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2026-08-04",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "979",
+    "newLevel": "8"
+  },
+  {
+    "date": "2026-08-11",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "985",
+    "newLevel": "6"
+  },
+  {
+    "date": "2026-08-11",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "987",
+    "newLevel": "9"
+  },
+  {
+    "date": "2026-08-13",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "989",
+    "newLevel": "4"
+  },
+  {
+    "date": "2026-08-13",
+    "material": "Tasmanian Oak",
+    "type": "REORDER",
+    "quantity": "10",
+    "orderId": "N/A",
+    "newLevel": "14"
+  },
+  {
+    "date": "2026-08-14",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "987",
+    "newLevel": "7"
+  },
+  {
+    "date": "2026-08-14",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "990",
+    "newLevel": "12"
+  },
+  {
+    "date": "2026-08-16",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "994",
+    "newLevel": "10"
+  },
+  {
+    "date": "2026-08-21",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1001",
+    "newLevel": "5"
+  },
+  {
+    "date": "2026-08-22",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "1003",
+    "newLevel": "6"
+  },
+  {
+    "date": "2026-08-25",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1005",
+    "newLevel": "3"
+  },
+  {
+    "date": "2026-08-25",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2026-08-28",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1009",
+    "newLevel": "8"
+  },
+  {
+    "date": "2026-09-03",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1013",
+    "newLevel": "4"
+  },
+  {
+    "date": "2026-09-03",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1015",
+    "newLevel": "6"
+  },
+  {
+    "date": "2026-09-03",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "12"
+  },
+  {
+    "date": "2026-09-04",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "1021",
+    "newLevel": "10"
+  },
+  {
+    "date": "2026-09-05",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1016",
+    "newLevel": "8"
+  },
+  {
+    "date": "2026-09-05",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1019",
+    "newLevel": "4"
+  },
+  {
+    "date": "2026-09-05",
+    "material": "Tasmanian Oak",
+    "type": "REORDER",
+    "quantity": "10",
+    "orderId": "N/A",
+    "newLevel": "14"
+  },
+  {
+    "date": "2026-09-06",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1022",
+    "newLevel": "10"
+  },
+  {
+    "date": "2026-09-07",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "3",
+    "orderId": "1023",
+    "newLevel": "7"
+  },
+  {
+    "date": "2026-09-07",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "1025",
+    "newLevel": "7"
+  },
+  {
+    "date": "2026-09-10",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1029",
+    "newLevel": "5"
+  },
+  {
+    "date": "2026-09-11",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "1030",
+    "newLevel": "4"
+  },
+  {
+    "date": "2026-09-11",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "12"
+  },
+  {
+    "date": "2026-09-13",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1033",
+    "newLevel": "12"
+  },
+  {
+    "date": "2026-09-17",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1043",
+    "newLevel": "5"
+  },
+  {
+    "date": "2026-09-18",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1045",
+    "newLevel": "10"
+  },
+  {
+    "date": "2026-09-19",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1047",
+    "newLevel": "3"
+  },
+  {
+    "date": "2026-09-19",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "1050",
+    "newLevel": "9"
+  },
+  {
+    "date": "2026-09-19",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2026-09-21",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1051",
+    "newLevel": "9"
+  },
+  {
+    "date": "2026-09-22",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1052",
+    "newLevel": "10"
+  },
+  {
+    "date": "2026-09-23",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1051",
+    "newLevel": "7"
+  },
+  {
+    "date": "2026-09-23",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1053",
+    "newLevel": "8"
+  },
+  {
+    "date": "2026-09-24",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1054",
+    "newLevel": "6"
+  },
+  {
+    "date": "2026-09-25",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1055",
+    "newLevel": "5"
+  },
+  {
+    "date": "2026-09-25",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1057",
+    "newLevel": "4"
+  },
+  {
+    "date": "2026-09-25",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "12"
+  },
+  {
+    "date": "2026-09-26",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1058",
+    "newLevel": "3"
+  },
+  {
+    "date": "2026-09-26",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2026-09-29",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1059",
+    "newLevel": "7"
+  },
+  {
+    "date": "2026-09-30",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1060",
+    "newLevel": "10"
+  },
+  {
+    "date": "2026-10-01",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1066",
+    "newLevel": "9"
+  },
+  {
+    "date": "2026-10-04",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1069",
+    "newLevel": "8"
+  },
+  {
+    "date": "2026-10-05",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "1072",
+    "newLevel": "8"
+  },
+  {
+    "date": "2026-10-07",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1077",
+    "newLevel": "5"
+  },
+  {
+    "date": "2026-10-07",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1080",
+    "newLevel": "6"
+  },
+  {
+    "date": "2026-10-07",
+    "material": "Tasmanian Oak",
+    "type": "REORDER",
+    "quantity": "10",
+    "orderId": "N/A",
+    "newLevel": "15"
+  },
+  {
+    "date": "2026-10-09",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1081",
+    "newLevel": "6"
+  },
+  {
+    "date": "2026-10-11",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1087",
+    "newLevel": "4"
+  },
+  {
+    "date": "2026-10-12",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1089",
+    "newLevel": "13"
+  },
+  {
+    "date": "2026-10-13",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1093",
+    "newLevel": "2"
+  },
+  {
+    "date": "2026-10-13",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "10"
+  },
+  {
+    "date": "2026-10-14",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "3",
+    "orderId": "1091",
+    "newLevel": "7"
+  },
+  {
+    "date": "2026-10-14",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1094",
+    "newLevel": "5"
+  },
+  {
+    "date": "2026-10-17",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1101",
+    "newLevel": "11"
+  },
+  {
+    "date": "2026-10-19",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1101",
+    "newLevel": "9"
+  },
+  {
+    "date": "2026-10-19",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1105",
+    "newLevel": "3"
+  },
+  {
+    "date": "2026-10-19",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2026-10-21",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1107",
+    "newLevel": "7"
+  },
+  {
+    "date": "2026-10-21",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1109",
+    "newLevel": "4"
+  },
+  {
+    "date": "2026-10-21",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "12"
+  },
+  {
+    "date": "2026-10-25",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1119",
+    "newLevel": "10"
+  },
+  {
+    "date": "2026-10-27",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1119",
+    "newLevel": "8"
+  },
+  {
+    "date": "2026-10-30",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1126",
+    "newLevel": "9"
+  },
+  {
+    "date": "2026-10-30",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1129",
+    "newLevel": "6"
+  },
+  {
+    "date": "2026-10-30",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1130",
+    "newLevel": "4"
+  },
+  {
+    "date": "2026-10-30",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "12"
+  },
+  {
+    "date": "2026-10-31",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1133",
+    "newLevel": "5"
+  },
+  {
+    "date": "2026-10-31",
+    "material": "Tasmanian Oak",
+    "type": "REORDER",
+    "quantity": "10",
+    "orderId": "N/A",
+    "newLevel": "15"
+  },
+  {
+    "date": "2026-11-01",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1136",
+    "newLevel": "13"
+  },
+  {
+    "date": "2026-11-03",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "1140",
+    "newLevel": "11"
+  },
+  {
+    "date": "2026-11-04",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1142",
+    "newLevel": "7"
+  },
+  {
+    "date": "2026-11-05",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "1145",
+    "newLevel": "6"
+  },
+  {
+    "date": "2026-11-07",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1146",
+    "newLevel": "9"
+  },
+  {
+    "date": "2026-11-07",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1149",
+    "newLevel": "7"
+  },
+  {
+    "date": "2026-11-08",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1147",
+    "newLevel": "4"
+  },
+  {
+    "date": "2026-11-09",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1155",
+    "newLevel": "11"
+  },
+  {
+    "date": "2026-11-10",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1156",
+    "newLevel": "9"
+  },
+  {
+    "date": "2026-11-11",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1159",
+    "newLevel": "7"
+  },
+  {
+    "date": "2026-11-12",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1161",
+    "newLevel": "2"
+  },
+  {
+    "date": "2026-11-12",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "10"
+  },
+  {
+    "date": "2026-11-13",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1162",
+    "newLevel": "5"
+  },
+  {
+    "date": "2026-11-16",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1163",
+    "newLevel": "5"
+  },
+  {
+    "date": "2026-11-16",
+    "material": "Tasmanian Oak",
+    "type": "REORDER",
+    "quantity": "10",
+    "orderId": "N/A",
+    "newLevel": "15"
+  },
+  {
+    "date": "2026-11-19",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1166",
+    "newLevel": "3"
+  },
+  {
+    "date": "2026-11-19",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "1168",
+    "newLevel": "14"
+  },
+  {
+    "date": "2026-11-19",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1171",
+    "newLevel": "1"
+  },
+  {
+    "date": "2026-11-19",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "9"
+  },
+  {
+    "date": "2026-11-20",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "1174",
+    "newLevel": "8"
+  },
+  {
+    "date": "2026-11-20",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1178",
+    "newLevel": "8"
+  },
+  {
+    "date": "2026-11-25",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1185",
+    "newLevel": "6"
+  },
+  {
+    "date": "2026-11-25",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "1194",
+    "newLevel": "13"
+  },
+  {
+    "date": "2026-11-27",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "3",
+    "orderId": "1192",
+    "newLevel": "5"
+  },
+  {
+    "date": "2026-11-28",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1196",
+    "newLevel": "4"
+  },
+  {
+    "date": "2026-11-29",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1198",
+    "newLevel": "3"
+  },
+  {
+    "date": "2026-11-29",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1203",
+    "newLevel": "11"
+  },
+  {
+    "date": "2026-11-29",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2026-12-01",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "3",
+    "orderId": "1204",
+    "newLevel": "8"
+  },
+  {
+    "date": "2026-12-01",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1206",
+    "newLevel": "2"
+  },
+  {
+    "date": "2026-12-01",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "10"
+  },
+  {
+    "date": "2026-12-03",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1209",
+    "newLevel": "9"
+  },
+  {
+    "date": "2026-12-06",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1210",
+    "newLevel": "6"
+  },
+  {
+    "date": "2026-12-08",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1211",
+    "newLevel": "4"
+  },
+  {
+    "date": "2026-12-08",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "1212",
+    "newLevel": "8"
+  },
+  {
+    "date": "2026-12-08",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "12"
+  },
+  {
+    "date": "2026-12-12",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1215",
+    "newLevel": "10"
+  },
+  {
+    "date": "2026-12-12",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1217",
+    "newLevel": "8"
+  },
+  {
+    "date": "2026-12-13",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1219",
+    "newLevel": "6"
+  },
+  {
+    "date": "2026-12-13",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1220",
+    "newLevel": "8"
+  },
+  {
+    "date": "2026-12-14",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1222",
+    "newLevel": "4"
+  },
+  {
+    "date": "2026-12-18",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "1224",
+    "newLevel": "7"
+  },
+  {
+    "date": "2026-12-18",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1225",
+    "newLevel": "6"
+  },
+  {
+    "date": "2026-12-19",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1226",
+    "newLevel": "5"
+  },
+  {
+    "date": "2026-12-21",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1227",
+    "newLevel": "3"
+  },
+  {
+    "date": "2026-12-21",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2026-12-23",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1229",
+    "newLevel": "9"
+  },
+  {
+    "date": "2026-12-23",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1231",
+    "newLevel": "4"
+  },
+  {
+    "date": "2026-12-23",
+    "material": "Tasmanian Oak",
+    "type": "REORDER",
+    "quantity": "10",
+    "orderId": "N/A",
+    "newLevel": "14"
+  },
+  {
+    "date": "2026-12-24",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "1233",
+    "newLevel": "3"
+  },
+  {
+    "date": "2026-12-24",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1237",
+    "newLevel": "7"
+  },
+  {
+    "date": "2026-12-24",
+    "material": "American Walnut",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  },
+  {
+    "date": "2026-12-25",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1239",
+    "newLevel": "12"
+  },
+  {
+    "date": "2026-12-27",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "3",
+    "orderId": "1241",
+    "newLevel": "8"
+  },
+  {
+    "date": "2026-12-29",
+    "material": "Tasmanian Oak",
+    "type": "CONSUME",
+    "quantity": "1",
+    "orderId": "1242",
+    "newLevel": "11"
+  },
+  {
+    "date": "2026-12-30",
+    "material": "American Walnut",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1243",
+    "newLevel": "6"
+  },
+  {
+    "date": "2027-01-01",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1245",
+    "newLevel": "5"
+  },
+  {
+    "date": "2027-01-01",
+    "material": "Victorian Ash",
+    "type": "CONSUME",
+    "quantity": "2",
+    "orderId": "1250",
+    "newLevel": "3"
+  },
+  {
+    "date": "2027-01-01",
+    "material": "Victorian Ash",
+    "type": "REORDER",
+    "quantity": "8",
+    "orderId": "N/A",
+    "newLevel": "11"
+  }
+]

@@ -1,0 +1,3922 @@
+[
+  {
+    "orderId": "105",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-01-04",
+    "endDate": "2025-01-06",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "108",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-01-06",
+    "endDate": "2025-01-08",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "109",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-01-06",
+    "endDate": "2025-01-08",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "110",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-01-07",
+    "endDate": "2025-01-10",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "113",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-01-08",
+    "endDate": "2025-01-11",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "113",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-01-09",
+    "endDate": "",
+    "durationDays": "0"
+  },
+  {
+    "orderId": "119",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-01-12",
+    "endDate": "2025-01-14",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "120",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-01-13",
+    "endDate": "2025-01-15",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "121",
+    "designerId": "D4",
+    "designerSkill": "low",
+    "startDate": "2025-01-13",
+    "endDate": "2025-01-15",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "123",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-01-15",
+    "endDate": "2025-01-17",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "129",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-01-18",
+    "endDate": "2025-01-21",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "130",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-01-19",
+    "endDate": "2025-01-21",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "139",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-01-25",
+    "endDate": "2025-01-27",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "140",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-01-26",
+    "endDate": "2025-01-29",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "144",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-01-30",
+    "endDate": "2025-02-02",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "147",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-02-01",
+    "endDate": "2025-02-04",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "149",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-02-03",
+    "endDate": "2025-02-06",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "154",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-02-07",
+    "endDate": "2025-02-09",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "155",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-02-07",
+    "endDate": "2025-02-10",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "156",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-02-08",
+    "endDate": "2025-02-10",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "160",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-02-10",
+    "endDate": "2025-02-13",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "164",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-02-13",
+    "endDate": "2025-02-15",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "165",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-02-14",
+    "endDate": "2025-02-18",
+    "durationDays": "5"
+  },
+  {
+    "orderId": "167",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-02-15",
+    "endDate": "2025-02-18",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "165",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-02-16",
+    "endDate": "",
+    "durationDays": "0"
+  },
+  {
+    "orderId": "174",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-02-20",
+    "endDate": "2025-02-23",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "176",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-02-21",
+    "endDate": "2025-02-23",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "177",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-02-22",
+    "endDate": "2025-02-25",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "180",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-02-23",
+    "endDate": "2025-02-26",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "183",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-02-25",
+    "endDate": "2025-02-27",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "185",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-02-27",
+    "endDate": "2025-03-02",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "187",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-03-01",
+    "endDate": "2025-03-03",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "189",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-03-02",
+    "endDate": "2025-03-04",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "190",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-03-02",
+    "endDate": "2025-03-04",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "193",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-03-04",
+    "endDate": "2025-03-06",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "194",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-03-05",
+    "endDate": "2025-03-07",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "195",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-03-05",
+    "endDate": "2025-03-08",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "197",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-03-06",
+    "endDate": "2025-03-08",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "198",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-03-07",
+    "endDate": "2025-03-09",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "200",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-03-08",
+    "endDate": "2025-03-10",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "209",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-03-14",
+    "endDate": "2025-03-16",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "210",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-03-14",
+    "endDate": "2025-03-16",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "211",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-03-15",
+    "endDate": "2025-03-17",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "213",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-03-16",
+    "endDate": "2025-03-19",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "214",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-03-16",
+    "endDate": "2025-03-18",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "216",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-03-18",
+    "endDate": "2025-03-20",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "217",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-03-19",
+    "endDate": "2025-03-21",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "218",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-03-19",
+    "endDate": "2025-03-22",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "221",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-03-21",
+    "endDate": "2025-03-23",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "222",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-03-22",
+    "endDate": "2025-03-24",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "226",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-03-24",
+    "endDate": "2025-03-27",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "227",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-03-24",
+    "endDate": "2025-03-26",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "229",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-03-25",
+    "endDate": "2025-03-28",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "231",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-03-26",
+    "endDate": "2025-03-28",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "233",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-03-27",
+    "endDate": "2025-03-29",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "236",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-03-29",
+    "endDate": "2025-03-31",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "240",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-03-31",
+    "endDate": "2025-04-03",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "241",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-04-01",
+    "endDate": "2025-04-04",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "246",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-04-03",
+    "endDate": "2025-04-04",
+    "durationDays": "2"
+  },
+  {
+    "orderId": "251",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-04-06",
+    "endDate": "2025-04-09",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "252",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-04-06",
+    "endDate": "2025-04-08",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "256",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-04-08",
+    "endDate": "2025-04-11",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "257",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-04-09",
+    "endDate": "2025-04-10",
+    "durationDays": "2"
+  },
+  {
+    "orderId": "259",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-04-10",
+    "endDate": "2025-04-13",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "261",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-04-11",
+    "endDate": "2025-04-14",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "264",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-04-12",
+    "endDate": "2025-04-15",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "267",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-04-14",
+    "endDate": "2025-04-16",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "268",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-04-15",
+    "endDate": "2025-04-17",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "271",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-04-16",
+    "endDate": "2025-04-19",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "272",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-04-17",
+    "endDate": "2025-04-19",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "276",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-04-19",
+    "endDate": "2025-04-21",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "279",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-04-20",
+    "endDate": "2025-04-22",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "282",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-04-22",
+    "endDate": "2025-04-24",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "285",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-04-23",
+    "endDate": "2025-04-25",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "291",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-04-26",
+    "endDate": "2025-04-28",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "293",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-04-27",
+    "endDate": "2025-04-30",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "294",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-04-28",
+    "endDate": "2025-05-01",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "297",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-04-29",
+    "endDate": "2025-05-01",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "299",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-04-30",
+    "endDate": "2025-05-03",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "306",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-05-04",
+    "endDate": "2025-05-07",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "309",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-05-05",
+    "endDate": "2025-05-06",
+    "durationDays": "2"
+  },
+  {
+    "orderId": "310",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-05-06",
+    "endDate": "2025-05-08",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "317",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-05-10",
+    "endDate": "2025-05-13",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "318",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-05-11",
+    "endDate": "2025-05-13",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "321",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-05-13",
+    "endDate": "2025-05-15",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "322",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-05-14",
+    "endDate": "2025-05-16",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "323",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-05-14",
+    "endDate": "2025-05-16",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "325",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-05-16",
+    "endDate": "2025-05-18",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "327",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-05-17",
+    "endDate": "2025-05-19",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "331",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-05-19",
+    "endDate": "2025-05-21",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "332",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-05-20",
+    "endDate": "2025-05-22",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "334",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-05-21",
+    "endDate": "2025-05-24",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "337",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-05-22",
+    "endDate": "2025-05-24",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "339",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-05-23",
+    "endDate": "2025-05-25",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "340",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-05-24",
+    "endDate": "2025-05-26",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "342",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-05-25",
+    "endDate": "2025-05-28",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "349",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-05-29",
+    "endDate": "2025-06-01",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "355",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-03",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "357",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-04",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "358",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-06-03",
+    "endDate": "2025-06-05",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "361",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-06-05",
+    "endDate": "2025-06-09",
+    "durationDays": "5"
+  },
+  {
+    "orderId": "362",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-06-06",
+    "endDate": "2025-06-08",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "361",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-06-07",
+    "endDate": "",
+    "durationDays": "0"
+  },
+  {
+    "orderId": "363",
+    "designerId": "D5",
+    "designerSkill": "low",
+    "startDate": "2025-06-07",
+    "endDate": "2025-06-10",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "367",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-06-10",
+    "endDate": "2025-06-12",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "371",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-06-13",
+    "endDate": "2025-06-15",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "372",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-06-13",
+    "endDate": "2025-06-15",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "373",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-06-14",
+    "endDate": "2025-06-17",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "377",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-06-17",
+    "endDate": "2025-06-19",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "379",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-06-19",
+    "endDate": "2025-06-22",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "381",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-06-21",
+    "endDate": "2025-06-23",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "382",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-06-22",
+    "endDate": "2025-06-25",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "385",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-06-24",
+    "endDate": "2025-06-26",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "386",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-06-25",
+    "endDate": "2025-06-28",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "387",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-06-26",
+    "endDate": "2025-06-30",
+    "durationDays": "5"
+  },
+  {
+    "orderId": "387",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-06-27",
+    "endDate": "",
+    "durationDays": "0"
+  },
+  {
+    "orderId": "388",
+    "designerId": "D5",
+    "designerSkill": "low",
+    "startDate": "2025-06-27",
+    "endDate": "2025-07-01",
+    "durationDays": "5"
+  },
+  {
+    "orderId": "389",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-06-28",
+    "endDate": "2025-07-01",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "390",
+    "designerId": "D14",
+    "designerSkill": "low",
+    "startDate": "2025-06-29",
+    "endDate": "2025-07-01",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "393",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-07-02",
+    "endDate": "2025-07-04",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "395",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-07-04",
+    "endDate": "2025-07-06",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "397",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-07-05",
+    "endDate": "2025-07-07",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "398",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-07-06",
+    "endDate": "2025-07-08",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "402",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-07-09",
+    "endDate": "2025-07-11",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "403",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-07-10",
+    "endDate": "2025-07-12",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "404",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-07-11",
+    "endDate": "2025-07-13",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "405",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-07-11",
+    "endDate": "2025-07-13",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "406",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-07-12",
+    "endDate": "2025-07-14",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "409",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-07-15",
+    "endDate": "2025-07-17",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "410",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-07-16",
+    "endDate": "2025-07-18",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "411",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-07-16",
+    "endDate": "2025-07-18",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "412",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-07-17",
+    "endDate": "2025-07-20",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "413",
+    "designerId": "D5",
+    "designerSkill": "low",
+    "startDate": "2025-07-17",
+    "endDate": "2025-07-20",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "414",
+    "designerId": "D2",
+    "designerSkill": "high",
+    "startDate": "2025-07-18",
+    "endDate": "2025-07-20",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "415",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-07-19",
+    "endDate": "2025-07-22",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "421",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-07-24",
+    "endDate": "2025-07-26",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "424",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-07-26",
+    "endDate": "2025-07-28",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "425",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-07-27",
+    "endDate": "2025-07-28",
+    "durationDays": "2"
+  },
+  {
+    "orderId": "426",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-07-28",
+    "endDate": "2025-07-29",
+    "durationDays": "2"
+  },
+  {
+    "orderId": "427",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-07-28",
+    "endDate": "2025-07-30",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "428",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-07-29",
+    "endDate": "2025-07-31",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "430",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-07-30",
+    "endDate": "2025-08-01",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "437",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-08-04",
+    "endDate": "2025-08-06",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "438",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-08-05",
+    "endDate": "2025-08-07",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "439",
+    "designerId": "D16",
+    "designerSkill": "low",
+    "startDate": "2025-08-05",
+    "endDate": "2025-08-07",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "440",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-08-06",
+    "endDate": "2025-08-08",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "442",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-08-07",
+    "endDate": "2025-08-09",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "446",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-08-10",
+    "endDate": "2025-08-13",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "447",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-08-11",
+    "endDate": "2025-08-13",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "448",
+    "designerId": "D16",
+    "designerSkill": "low",
+    "startDate": "2025-08-12",
+    "endDate": "2025-08-14",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "450",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-08-13",
+    "endDate": "2025-08-15",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "451",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-08-14",
+    "endDate": "2025-08-16",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "453",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-08-15",
+    "endDate": "2025-08-17",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "454",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-08-16",
+    "endDate": "2025-08-18",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "455",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-08-17",
+    "endDate": "2025-08-20",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "458",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-08-19",
+    "endDate": "2025-08-21",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "461",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-08-22",
+    "endDate": "2025-08-24",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "462",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-08-23",
+    "endDate": "2025-08-26",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "463",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-08-24",
+    "endDate": "2025-08-26",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "466",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-08-27",
+    "endDate": "2025-08-29",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "467",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-08-27",
+    "endDate": "2025-08-30",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "469",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-08-29",
+    "endDate": "2025-08-31",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "470",
+    "designerId": "D16",
+    "designerSkill": "low",
+    "startDate": "2025-08-29",
+    "endDate": "2025-09-01",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "471",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-08-30",
+    "endDate": "2025-09-01",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "476",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-09-03",
+    "endDate": "2025-09-06",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "478",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-09-04",
+    "endDate": "2025-09-06",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "480",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-09-06",
+    "endDate": "2025-09-08",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "481",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-09-06",
+    "endDate": "2025-09-08",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "483",
+    "designerId": "D16",
+    "designerSkill": "low",
+    "startDate": "2025-09-07",
+    "endDate": "2025-09-11",
+    "durationDays": "5"
+  },
+  {
+    "orderId": "484",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-09-08",
+    "endDate": "2025-09-09",
+    "durationDays": "2"
+  },
+  {
+    "orderId": "486",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-09-09",
+    "endDate": "2025-09-11",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "488",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-09-10",
+    "endDate": "2025-09-13",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "490",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-09-11",
+    "endDate": "2025-09-12",
+    "durationDays": "2"
+  },
+  {
+    "orderId": "492",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-09-12",
+    "endDate": "2025-09-14",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "494",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-09-13",
+    "endDate": "2025-09-16",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "497",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-09-14",
+    "endDate": "2025-09-16",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "498",
+    "designerId": "D16",
+    "designerSkill": "low",
+    "startDate": "2025-09-15",
+    "endDate": "2025-09-18",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "500",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-09-16",
+    "endDate": "2025-09-19",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "502",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-09-17",
+    "endDate": "2025-09-20",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "504",
+    "designerId": "D16",
+    "designerSkill": "low",
+    "startDate": "2025-09-18",
+    "endDate": "2025-09-21",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "505",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-09-19",
+    "endDate": "2025-09-21",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "509",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-09-21",
+    "endDate": "2025-09-23",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "510",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-09-21",
+    "endDate": "2025-09-22",
+    "durationDays": "2"
+  },
+  {
+    "orderId": "512",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-09-22",
+    "endDate": "2025-09-24",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "515",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-09-24",
+    "endDate": "2025-09-27",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "516",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-09-25",
+    "endDate": "2025-09-28",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "517",
+    "designerId": "D16",
+    "designerSkill": "low",
+    "startDate": "2025-09-25",
+    "endDate": "2025-09-27",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "518",
+    "designerId": "D17",
+    "designerSkill": "low",
+    "startDate": "2025-09-26",
+    "endDate": "2025-09-29",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "521",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-09-28",
+    "endDate": "2025-09-30",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "523",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-09-29",
+    "endDate": "2025-10-01",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "525",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-09-30",
+    "endDate": "2025-10-02",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "531",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-10-03",
+    "endDate": "2025-10-09",
+    "durationDays": "7"
+  },
+  {
+    "orderId": "533",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-10-04",
+    "endDate": "2025-10-07",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "531",
+    "designerId": "D16",
+    "designerSkill": "low",
+    "startDate": "2025-10-05",
+    "endDate": "",
+    "durationDays": "0"
+  },
+  {
+    "orderId": "538",
+    "designerId": "D17",
+    "designerSkill": "low",
+    "startDate": "2025-10-06",
+    "endDate": "2025-10-10",
+    "durationDays": "5"
+  },
+  {
+    "orderId": "540",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-10-07",
+    "endDate": "2025-10-10",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "541",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-10-08",
+    "endDate": "2025-10-10",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "546",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-10-10",
+    "endDate": "2025-10-12",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "547",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-10-11",
+    "endDate": "2025-10-13",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "548",
+    "designerId": "D16",
+    "designerSkill": "low",
+    "startDate": "2025-10-11",
+    "endDate": "2025-10-14",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "549",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-10-12",
+    "endDate": "2025-10-14",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "550",
+    "designerId": "D17",
+    "designerSkill": "low",
+    "startDate": "2025-10-12",
+    "endDate": "2025-10-14",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "551",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-10-13",
+    "endDate": "2025-10-16",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "552",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2025-10-13",
+    "endDate": "2025-10-16",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "555",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-10-15",
+    "endDate": "2025-10-17",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "556",
+    "designerId": "D16",
+    "designerSkill": "low",
+    "startDate": "2025-10-15",
+    "endDate": "2025-10-17",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "557",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-10-16",
+    "endDate": "2025-10-19",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "559",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-10-17",
+    "endDate": "2025-10-20",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "567",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-10-21",
+    "endDate": "2025-10-24",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "568",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-10-21",
+    "endDate": "2025-10-23",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "569",
+    "designerId": "D16",
+    "designerSkill": "low",
+    "startDate": "2025-10-22",
+    "endDate": "2025-10-26",
+    "durationDays": "5"
+  },
+  {
+    "orderId": "570",
+    "designerId": "D17",
+    "designerSkill": "low",
+    "startDate": "2025-10-22",
+    "endDate": "2025-10-24",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "573",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-10-24",
+    "endDate": "2025-10-28",
+    "durationDays": "5"
+  },
+  {
+    "orderId": "574",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-10-24",
+    "endDate": "2025-10-25",
+    "durationDays": "2"
+  },
+  {
+    "orderId": "575",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-10-25",
+    "endDate": "2025-10-26",
+    "durationDays": "2"
+  },
+  {
+    "orderId": "573",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-10-26",
+    "endDate": "",
+    "durationDays": "0"
+  },
+  {
+    "orderId": "577",
+    "designerId": "D16",
+    "designerSkill": "low",
+    "startDate": "2025-10-26",
+    "endDate": "2025-10-28",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "579",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-10-27",
+    "endDate": "2025-10-30",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "581",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-10-28",
+    "endDate": "2025-10-30",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "582",
+    "designerId": "D16",
+    "designerSkill": "low",
+    "startDate": "2025-10-28",
+    "endDate": "2025-10-31",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "584",
+    "designerId": "D17",
+    "designerSkill": "low",
+    "startDate": "2025-10-29",
+    "endDate": "2025-10-31",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "588",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-11-01",
+    "endDate": "2025-11-03",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "591",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-11-02",
+    "endDate": "2025-11-04",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "592",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-06",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "594",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-11-04",
+    "endDate": "2025-11-06",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "596",
+    "designerId": "D16",
+    "designerSkill": "low",
+    "startDate": "2025-11-05",
+    "endDate": "2025-11-07",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "598",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-11-06",
+    "endDate": "2025-11-08",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "599",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-11-06",
+    "endDate": "2025-11-08",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "603",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-11-09",
+    "endDate": "2025-11-11",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "604",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-11-09",
+    "endDate": "2025-11-12",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "609",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-11-12",
+    "endDate": "2025-11-14",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "617",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-11-16",
+    "endDate": "2025-11-18",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "622",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-11-20",
+    "endDate": "2025-11-23",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "627",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-11-24",
+    "endDate": "2025-11-27",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "632",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-11-27",
+    "endDate": "2025-11-28",
+    "durationDays": "2"
+  },
+  {
+    "orderId": "633",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-11-28",
+    "endDate": "2025-11-30",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "642",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-12-05",
+    "endDate": "2025-12-07",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "644",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-12-07",
+    "endDate": "2025-12-09",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "647",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-12-09",
+    "endDate": "2025-12-11",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "649",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-12-11",
+    "endDate": "2025-12-13",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "651",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-12-13",
+    "endDate": "2025-12-15",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "654",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-12-14",
+    "endDate": "2025-12-16",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "657",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-12-17",
+    "endDate": "2025-12-19",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "658",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-12-18",
+    "endDate": "2025-12-20",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "660",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-12-19",
+    "endDate": "2025-12-21",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "661",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-12-20",
+    "endDate": "2025-12-22",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "662",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-12-21",
+    "endDate": "2025-12-24",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "668",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-12-26",
+    "endDate": "2025-12-28",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "671",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-12-28",
+    "endDate": "2025-12-29",
+    "durationDays": "2"
+  },
+  {
+    "orderId": "672",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-12-28",
+    "endDate": "2025-12-30",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "674",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2025-12-30",
+    "endDate": "2026-01-01",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "676",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2025-12-31",
+    "endDate": "2026-01-02",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "679",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-01-02",
+    "endDate": "2026-01-04",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "680",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-01-03",
+    "endDate": "2026-01-05",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "684",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-01-05",
+    "endDate": "2026-01-07",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "686",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-01-06",
+    "endDate": "2026-01-09",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "691",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-01-10",
+    "endDate": "2026-01-13",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "692",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-01-11",
+    "endDate": "2026-01-12",
+    "durationDays": "2"
+  },
+  {
+    "orderId": "695",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-01-13",
+    "endDate": "2026-01-16",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "701",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-01-16",
+    "endDate": "2026-01-19",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "707",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-01-20",
+    "endDate": "2026-01-22",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "709",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-01-22",
+    "endDate": "2026-01-25",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "711",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-01-23",
+    "endDate": "2026-01-25",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "713",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-01-25",
+    "endDate": "2026-01-27",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "719",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-01-28",
+    "endDate": "2026-01-31",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "719",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-01-29",
+    "endDate": "",
+    "durationDays": "0"
+  },
+  {
+    "orderId": "721",
+    "designerId": "D17",
+    "designerSkill": "low",
+    "startDate": "2026-01-29",
+    "endDate": "2026-02-01",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "722",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-01-30",
+    "endDate": "2026-02-02",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "723",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-01-31",
+    "endDate": "2026-02-02",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "727",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-02-04",
+    "endDate": "2026-02-06",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "728",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-02-05",
+    "endDate": "2026-02-07",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "730",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-02-06",
+    "endDate": "2026-02-08",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "732",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-02-08",
+    "endDate": "2026-02-11",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "734",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-02-09",
+    "endDate": "2026-02-12",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "736",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-02-11",
+    "endDate": "2026-02-13",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "737",
+    "designerId": "D17",
+    "designerSkill": "low",
+    "startDate": "2026-02-11",
+    "endDate": "2026-02-13",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "738",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-02-12",
+    "endDate": "2026-02-14",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "740",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-02-14",
+    "endDate": "2026-02-16",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "743",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-02-17",
+    "endDate": "2026-02-19",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "746",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-02-19",
+    "endDate": "2026-02-21",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "748",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-02-20",
+    "endDate": "2026-02-23",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "753",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-02-24",
+    "endDate": "2026-02-26",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "755",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-02-25",
+    "endDate": "2026-02-28",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "756",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-02-26",
+    "endDate": "2026-03-01",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "758",
+    "designerId": "D17",
+    "designerSkill": "low",
+    "startDate": "2026-02-27",
+    "endDate": "2026-03-03",
+    "durationDays": "5"
+  },
+  {
+    "orderId": "762",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-03-01",
+    "endDate": "2026-03-03",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "767",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-03-04",
+    "endDate": "2026-03-06",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "768",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-03-05",
+    "endDate": "2026-03-07",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "772",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-03-07",
+    "endDate": "2026-03-09",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "782",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-03-12",
+    "endDate": "2026-03-14",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "783",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-03-13",
+    "endDate": "2026-03-14",
+    "durationDays": "2"
+  },
+  {
+    "orderId": "786",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-03-15",
+    "endDate": "2026-03-18",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "788",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-03-16",
+    "endDate": "2026-03-19",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "789",
+    "designerId": "D17",
+    "designerSkill": "low",
+    "startDate": "2026-03-16",
+    "endDate": "2026-03-20",
+    "durationDays": "5"
+  },
+  {
+    "orderId": "792",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-03-18",
+    "endDate": "2026-03-21",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "794",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-03-19",
+    "endDate": "2026-03-21",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "796",
+    "designerId": "D17",
+    "designerSkill": "low",
+    "startDate": "2026-03-20",
+    "endDate": "2026-03-23",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "799",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-03-22",
+    "endDate": "2026-03-24",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "801",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-03-23",
+    "endDate": "2026-03-26",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "802",
+    "designerId": "D17",
+    "designerSkill": "low",
+    "startDate": "2026-03-23",
+    "endDate": "2026-03-26",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "803",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-03-24",
+    "endDate": "2026-03-27",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "804",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-03-24",
+    "endDate": "2026-03-26",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "806",
+    "designerId": "D21",
+    "designerSkill": "low",
+    "startDate": "2026-03-25",
+    "endDate": "2026-03-27",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "807",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-03-26",
+    "endDate": "2026-03-28",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "809",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-03-27",
+    "endDate": "2026-03-29",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "813",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-03-29",
+    "endDate": "2026-03-31",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "814",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-03-29",
+    "endDate": "2026-04-01",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "816",
+    "designerId": "D17",
+    "designerSkill": "low",
+    "startDate": "2026-03-30",
+    "endDate": "2026-04-03",
+    "durationDays": "5"
+  },
+  {
+    "orderId": "820",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-04-02",
+    "endDate": "2026-04-04",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "822",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-04-03",
+    "endDate": "2026-04-05",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "824",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-04-04",
+    "endDate": "2026-04-06",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "828",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-04-06",
+    "endDate": "2026-04-08",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "829",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-04-06",
+    "endDate": "2026-04-07",
+    "durationDays": "2"
+  },
+  {
+    "orderId": "830",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-04-07",
+    "endDate": "2026-04-10",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "833",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-04-08",
+    "endDate": "2026-04-11",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "834",
+    "designerId": "D17",
+    "designerSkill": "low",
+    "startDate": "2026-04-09",
+    "endDate": "2026-04-12",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "835",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-04-09",
+    "endDate": "2026-04-11",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "837",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-04-10",
+    "endDate": "2026-04-12",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "841",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-04-12",
+    "endDate": "2026-04-15",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "843",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-04-13",
+    "endDate": "2026-04-16",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "846",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-04-15",
+    "endDate": "2026-04-18",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "847",
+    "designerId": "D17",
+    "designerSkill": "low",
+    "startDate": "2026-04-15",
+    "endDate": "2026-04-17",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "849",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-04-16",
+    "endDate": "2026-04-18",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "850",
+    "designerId": "D17",
+    "designerSkill": "low",
+    "startDate": "2026-04-17",
+    "endDate": "2026-04-20",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "851",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-04-17",
+    "endDate": "2026-04-19",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "852",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-04-18",
+    "endDate": "2026-04-20",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "854",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-04-19",
+    "endDate": "2026-04-21",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "855",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-04-19",
+    "endDate": "2026-04-21",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "856",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-04-20",
+    "endDate": "2026-04-23",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "860",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-04-22",
+    "endDate": "2026-04-25",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "864",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-04-24",
+    "endDate": "2026-04-25",
+    "durationDays": "2"
+  },
+  {
+    "orderId": "867",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-04-26",
+    "endDate": "2026-04-28",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "873",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-04-29",
+    "endDate": "2026-04-30",
+    "durationDays": "2"
+  },
+  {
+    "orderId": "874",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-04-29",
+    "endDate": "2026-05-01",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "876",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-04-30",
+    "endDate": "2026-05-03",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "879",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-05-02",
+    "endDate": "2026-05-04",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "880",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-05-03",
+    "endDate": "2026-05-06",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "882",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-07",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "883",
+    "designerId": "D17",
+    "designerSkill": "low",
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-07",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "884",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-05-05",
+    "endDate": "2026-05-07",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "885",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-05-06",
+    "endDate": "2026-05-08",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "886",
+    "designerId": "D21",
+    "designerSkill": "low",
+    "startDate": "2026-05-06",
+    "endDate": "2026-05-09",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "891",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-05-11",
+    "endDate": "2026-05-13",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "892",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-05-12",
+    "endDate": "2026-05-14",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "894",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-05-14",
+    "endDate": "2026-05-16",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "900",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-05-20",
+    "endDate": "2026-05-23",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "902",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-05-22",
+    "endDate": "2026-05-24",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "906",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-05-26",
+    "endDate": "2026-05-29",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "911",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-05-29",
+    "endDate": "2026-05-31",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "913",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-05-30",
+    "endDate": "2026-06-04",
+    "durationDays": "6"
+  },
+  {
+    "orderId": "913",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-06-01",
+    "endDate": "",
+    "durationDays": "0"
+  },
+  {
+    "orderId": "915",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-03",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "922",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-10",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "923",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-06-09",
+    "endDate": "2026-06-11",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "924",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-06-10",
+    "endDate": "2026-06-12",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "925",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-06-11",
+    "endDate": "2026-06-14",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "927",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-06-13",
+    "endDate": "2026-06-15",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "928",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-06-14",
+    "endDate": "2026-06-16",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "930",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-06-16",
+    "endDate": "2026-06-19",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "931",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-06-17",
+    "endDate": "2026-06-20",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "937",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-06-23",
+    "endDate": "2026-06-25",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "939",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-06-25",
+    "endDate": "2026-06-28",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "944",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-06-30",
+    "endDate": "2026-07-02",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "948",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-07-04",
+    "endDate": "2026-07-06",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "957",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-07-13",
+    "endDate": "2026-07-16",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "961",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-07-17",
+    "endDate": "2026-07-20",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "963",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-07-19",
+    "endDate": "2026-07-21",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "968",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-07-24",
+    "endDate": "2026-07-28",
+    "durationDays": "5"
+  },
+  {
+    "orderId": "969",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-07-24",
+    "endDate": "2026-07-26",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "968",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-07-26",
+    "endDate": "",
+    "durationDays": "0"
+  },
+  {
+    "orderId": "971",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-07-26",
+    "endDate": "2026-07-29",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "973",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-07-27",
+    "endDate": "2026-07-29",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "974",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-07-28",
+    "endDate": "2026-07-30",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "977",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-07-31",
+    "endDate": "2026-08-02",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "979",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-08-02",
+    "endDate": "2026-08-04",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "985",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-08-08",
+    "endDate": "2026-08-11",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "987",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-08-09",
+    "endDate": "2026-08-11",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "989",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-08-11",
+    "endDate": "2026-08-13",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "990",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-08-12",
+    "endDate": "2026-08-14",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "994",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-08-14",
+    "endDate": "2026-08-16",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1001",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-08-19",
+    "endDate": "2026-08-21",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1003",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-08-21",
+    "endDate": "2026-08-22",
+    "durationDays": "2"
+  },
+  {
+    "orderId": "1005",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-08-23",
+    "endDate": "2026-08-25",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1009",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-08-26",
+    "endDate": "2026-08-28",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1013",
+    "designerId": "D1",
+    "designerSkill": "high",
+    "startDate": "2026-08-30",
+    "endDate": "2026-09-03",
+    "durationDays": "5"
+  },
+  {
+    "orderId": "1015",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-08-31",
+    "endDate": "2026-09-03",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "1013",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-09-01",
+    "endDate": "",
+    "durationDays": "0"
+  },
+  {
+    "orderId": "1016",
+    "designerId": "D21",
+    "designerSkill": "low",
+    "startDate": "2026-09-01",
+    "endDate": "2026-09-05",
+    "durationDays": "5"
+  },
+  {
+    "orderId": "1019",
+    "designerId": "D22",
+    "designerSkill": "low",
+    "startDate": "2026-09-02",
+    "endDate": "2026-09-05",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "1021",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-09-03",
+    "endDate": "2026-09-04",
+    "durationDays": "2"
+  },
+  {
+    "orderId": "1022",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-09-04",
+    "endDate": "2026-09-06",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1023",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-09-04",
+    "endDate": "2026-09-07",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "1025",
+    "designerId": "D21",
+    "designerSkill": "low",
+    "startDate": "2026-09-05",
+    "endDate": "2026-09-07",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1029",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-09-07",
+    "endDate": "2026-09-09",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1030",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-09-08",
+    "endDate": "2026-09-10",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1033",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-09-10",
+    "endDate": "2026-09-12",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1043",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-09-15",
+    "endDate": "2026-09-17",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1045",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-09-16",
+    "endDate": "2026-09-18",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1047",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-09-17",
+    "endDate": "2026-09-19",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1050",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-09-18",
+    "endDate": "2026-09-19",
+    "durationDays": "2"
+  },
+  {
+    "orderId": "1051",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-09-19",
+    "endDate": "2026-09-21",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1052",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-09-20",
+    "endDate": "2026-09-22",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1053",
+    "designerId": "D21",
+    "designerSkill": "low",
+    "startDate": "2026-09-20",
+    "endDate": "2026-09-23",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "1054",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-09-21",
+    "endDate": "2026-09-23",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1055",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-09-22",
+    "endDate": "2026-09-24",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1057",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-09-23",
+    "endDate": "2026-09-25",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1058",
+    "designerId": "D21",
+    "designerSkill": "low",
+    "startDate": "2026-09-23",
+    "endDate": "2026-09-26",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "1059",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-09-24",
+    "endDate": "2026-09-26",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1060",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-09-25",
+    "endDate": "2026-09-27",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1066",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-09-28",
+    "endDate": "2026-09-30",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1069",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-09-30",
+    "endDate": "2026-10-02",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1072",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-10-02",
+    "endDate": "2026-10-04",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1077",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-10-04",
+    "endDate": "2026-10-07",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "1080",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-10-05",
+    "endDate": "2026-10-07",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1081",
+    "designerId": "D21",
+    "designerSkill": "low",
+    "startDate": "2026-10-06",
+    "endDate": "2026-10-09",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "1087",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-10-09",
+    "endDate": "2026-10-11",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1089",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-10-10",
+    "endDate": "2026-10-12",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1091",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-10-11",
+    "endDate": "2026-10-14",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "1093",
+    "designerId": "D21",
+    "designerSkill": "low",
+    "startDate": "2026-10-11",
+    "endDate": "2026-10-13",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1094",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-10-12",
+    "endDate": "2026-10-14",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1101",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-10-15",
+    "endDate": "2026-10-17",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1105",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-10-17",
+    "endDate": "2026-10-19",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1107",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-10-18",
+    "endDate": "2026-10-21",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "1109",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-10-19",
+    "endDate": "2026-10-21",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1119",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-10-23",
+    "endDate": "2026-10-25",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1126",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-10-27",
+    "endDate": "2026-10-30",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "1129",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-10-28",
+    "endDate": "2026-10-30",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1130",
+    "designerId": "D21",
+    "designerSkill": "low",
+    "startDate": "2026-10-28",
+    "endDate": "2026-10-30",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1133",
+    "designerId": "D22",
+    "designerSkill": "low",
+    "startDate": "2026-10-29",
+    "endDate": "2026-10-31",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1136",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-10-30",
+    "endDate": "2026-11-01",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1140",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-11-01",
+    "endDate": "2026-11-03",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1142",
+    "designerId": "D21",
+    "designerSkill": "low",
+    "startDate": "2026-11-02",
+    "endDate": "2026-11-04",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1145",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-11-03",
+    "endDate": "2026-11-05",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1146",
+    "designerId": "D21",
+    "designerSkill": "low",
+    "startDate": "2026-11-04",
+    "endDate": "2026-11-07",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "1147",
+    "designerId": "D22",
+    "designerSkill": "low",
+    "startDate": "2026-11-04",
+    "endDate": "2026-11-08",
+    "durationDays": "5"
+  },
+  {
+    "orderId": "1149",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-11-05",
+    "endDate": "2026-11-07",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1155",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-11-07",
+    "endDate": "2026-11-09",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1156",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-11-08",
+    "endDate": "2026-11-10",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1159",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-11-09",
+    "endDate": "2026-11-11",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1161",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-11-10",
+    "endDate": "2026-11-12",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1162",
+    "designerId": "D21",
+    "designerSkill": "low",
+    "startDate": "2026-11-10",
+    "endDate": "2026-11-13",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "1163",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-11-11",
+    "endDate": "2026-11-13",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1166",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-11-12",
+    "endDate": "2026-11-15",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "1168",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-11-13",
+    "endDate": "2026-11-15",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1171",
+    "designerId": "D21",
+    "designerSkill": "low",
+    "startDate": "2026-11-14",
+    "endDate": "2026-11-17",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "1174",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-11-15",
+    "endDate": "2026-11-17",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1178",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-11-17",
+    "endDate": "2026-11-19",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1185",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-11-20",
+    "endDate": "2026-11-25",
+    "durationDays": "6"
+  },
+  {
+    "orderId": "1185",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-11-22",
+    "endDate": "",
+    "durationDays": "0"
+  },
+  {
+    "orderId": "1192",
+    "designerId": "D21",
+    "designerSkill": "low",
+    "startDate": "2026-11-23",
+    "endDate": "2026-11-27",
+    "durationDays": "5"
+  },
+  {
+    "orderId": "1194",
+    "designerId": "D22",
+    "designerSkill": "low",
+    "startDate": "2026-11-23",
+    "endDate": "2026-11-25",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1196",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-11-25",
+    "endDate": "2026-11-28",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "1198",
+    "designerId": "D22",
+    "designerSkill": "low",
+    "startDate": "2026-11-25",
+    "endDate": "2026-11-29",
+    "durationDays": "5"
+  },
+  {
+    "orderId": "1203",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-11-27",
+    "endDate": "2026-11-29",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1204",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-11-28",
+    "endDate": "2026-12-01",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "1206",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-11-29",
+    "endDate": "2026-12-01",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1209",
+    "designerId": "D21",
+    "designerSkill": "low",
+    "startDate": "2026-11-30",
+    "endDate": "2026-12-03",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "1210",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-12-01",
+    "endDate": "2026-12-04",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "1211",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-12-01",
+    "endDate": "2026-12-03",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1212",
+    "designerId": "D22",
+    "designerSkill": "low",
+    "startDate": "2026-12-02",
+    "endDate": "2026-12-04",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1215",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-12-03",
+    "endDate": "2026-12-05",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1217",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-12-04",
+    "endDate": "2026-12-07",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "1219",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-12-05",
+    "endDate": "2026-12-08",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "1220",
+    "designerId": "D21",
+    "designerSkill": "low",
+    "startDate": "2026-12-06",
+    "endDate": "2026-12-09",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "1222",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-12-07",
+    "endDate": "2026-12-09",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1224",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-12-08",
+    "endDate": "2026-12-09",
+    "durationDays": "2"
+  },
+  {
+    "orderId": "1225",
+    "designerId": "D22",
+    "designerSkill": "low",
+    "startDate": "2026-12-08",
+    "endDate": "2026-12-11",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "1226",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-12-09",
+    "endDate": "2026-12-13",
+    "durationDays": "5"
+  },
+  {
+    "orderId": "1227",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-12-09",
+    "endDate": "2026-12-12",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "1226",
+    "designerId": "D21",
+    "designerSkill": "low",
+    "startDate": "2026-12-10",
+    "endDate": "",
+    "durationDays": "0"
+  },
+  {
+    "orderId": "1229",
+    "designerId": "D24",
+    "designerSkill": "high",
+    "startDate": "2026-12-10",
+    "endDate": "2026-12-12",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1231",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-12-12",
+    "endDate": "2026-12-14",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1233",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-12-13",
+    "endDate": "2026-12-14",
+    "durationDays": "2"
+  },
+  {
+    "orderId": "1237",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-12-15",
+    "endDate": "2026-12-17",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1239",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-12-17",
+    "endDate": "2026-12-19",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1241",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-12-18",
+    "endDate": "2026-12-21",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "1242",
+    "designerId": "D21",
+    "designerSkill": "low",
+    "startDate": "2026-12-18",
+    "endDate": "2026-12-20",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1243",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-12-19",
+    "endDate": "2026-12-21",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1245",
+    "designerId": "D21",
+    "designerSkill": "low",
+    "startDate": "2026-12-20",
+    "endDate": "2026-12-22",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1250",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-12-22",
+    "endDate": "2026-12-24",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1251",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-12-23",
+    "endDate": "2026-12-26",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "1252",
+    "designerId": "D21",
+    "designerSkill": "low",
+    "startDate": "2026-12-23",
+    "endDate": "2026-12-25",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1254",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-12-25",
+    "endDate": "2026-12-27",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1255",
+    "designerId": "D21",
+    "designerSkill": "low",
+    "startDate": "2026-12-25",
+    "endDate": "2026-12-28",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "1256",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-12-26",
+    "endDate": "2026-12-29",
+    "durationDays": "4"
+  },
+  {
+    "orderId": "1257",
+    "designerId": "D22",
+    "designerSkill": "low",
+    "startDate": "2026-12-26",
+    "endDate": "2026-12-28",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1258",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-12-27",
+    "endDate": "2026-12-29",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1260",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2026-12-29",
+    "endDate": "2026-12-31",
+    "durationDays": "3"
+  },
+  {
+    "orderId": "1262",
+    "designerId": "D18",
+    "designerSkill": "high",
+    "startDate": "2026-12-30",
+    "endDate": "",
+    "durationDays": "0"
+  },
+  {
+    "orderId": "1262",
+    "designerId": "D3",
+    "designerSkill": "high",
+    "startDate": "2027-01-01",
+    "endDate": "",
+    "durationDays": "0"
+  }
+]

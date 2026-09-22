@@ -1,0 +1,170 @@
+[
+  {
+    "employeeId": "D1",
+    "role": "designer",
+    "skillLevel": "high",
+    "status": "Resigned",
+    "wage": "45"
+  },
+  {
+    "employeeId": "D2",
+    "role": "designer",
+    "skillLevel": "high",
+    "status": "Resigned",
+    "wage": "45"
+  },
+  {
+    "employeeId": "D3",
+    "role": "designer",
+    "skillLevel": "high",
+    "status": "Active",
+    "wage": "45"
+  },
+  {
+    "employeeId": "D4",
+    "role": "designer",
+    "skillLevel": "low",
+    "status": "Resigned",
+    "wage": "30"
+  },
+  {
+    "employeeId": "D5",
+    "role": "designer",
+    "skillLevel": "low",
+    "status": "Resigned",
+    "wage": "30"
+  },
+  {
+    "employeeId": "M6",
+    "role": "maker",
+    "skillLevel": "high",
+    "status": "Active",
+    "wage": "45"
+  },
+  {
+    "employeeId": "M7",
+    "role": "maker",
+    "skillLevel": "high",
+    "status": "Active",
+    "wage": "45"
+  },
+  {
+    "employeeId": "M8",
+    "role": "maker",
+    "skillLevel": "high",
+    "status": "Resigned",
+    "wage": "45"
+  },
+  {
+    "employeeId": "M9",
+    "role": "maker",
+    "skillLevel": "high",
+    "status": "Resigned",
+    "wage": "45"
+  },
+  {
+    "employeeId": "M10",
+    "role": "maker",
+    "skillLevel": "high",
+    "status": "Active",
+    "wage": "45"
+  },
+  {
+    "employeeId": "M11",
+    "role": "maker",
+    "skillLevel": "low",
+    "status": "Active",
+    "wage": "30"
+  },
+  {
+    "employeeId": "M12",
+    "role": "maker",
+    "skillLevel": "low",
+    "status": "Active",
+    "wage": "30"
+  },
+  {
+    "employeeId": "M13",
+    "role": "maker",
+    "skillLevel": "low",
+    "status": "Active",
+    "wage": "30"
+  },
+  {
+    "employeeId": "D14",
+    "role": "designer",
+    "skillLevel": "low",
+    "status": "Resigned",
+    "wage": "30"
+  },
+  {
+    "employeeId": "M15",
+    "role": "maker",
+    "skillLevel": "high",
+    "status": "Resigned",
+    "wage": "45"
+  },
+  {
+    "employeeId": "D16",
+    "role": "designer",
+    "skillLevel": "low",
+    "status": "Resigned",
+    "wage": "30"
+  },
+  {
+    "employeeId": "D17",
+    "role": "designer",
+    "skillLevel": "low",
+    "status": "Resigned",
+    "wage": "30"
+  },
+  {
+    "employeeId": "D18",
+    "role": "designer",
+    "skillLevel": "high",
+    "status": "Resigned",
+    "wage": "45"
+  },
+  {
+    "employeeId": "M19",
+    "role": "maker",
+    "skillLevel": "high",
+    "status": "Active",
+    "wage": "45"
+  },
+  {
+    "employeeId": "M20",
+    "role": "maker",
+    "skillLevel": "high",
+    "status": "Active",
+    "wage": "45"
+  },
+  {
+    "employeeId": "D21",
+    "role": "designer",
+    "skillLevel": "low",
+    "status": "Active",
+    "wage": "30"
+  },
+  {
+    "employeeId": "D22",
+    "role": "designer",
+    "skillLevel": "low",
+    "status": "Active",
+    "wage": "30"
+  },
+  {
+    "employeeId": "D23",
+    "role": "designer",
+    "skillLevel": "high",
+    "status": "Resigned",
+    "wage": "45"
+  },
+  {
+    "employeeId": "D24",
+    "role": "designer",
+    "skillLevel": "high",
+    "status": "Active",
+    "wage": "45"
+  }
+]

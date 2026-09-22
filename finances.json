@@ -1,0 +1,5847 @@
+[
+  {
+    "date": "2025-01-02",
+    "day": "1",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-01-02",
+    "day": "1",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-01-02",
+    "day": "1",
+    "type": "COST",
+    "amount": "12000",
+    "description": "Reordered 10 m\u00b3 of Tasmanian Oak"
+  },
+  {
+    "date": "2025-01-03",
+    "day": "2",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-01-03",
+    "day": "2",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-01-04",
+    "day": "3",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-01-04",
+    "day": "3",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-01-04",
+    "day": "3",
+    "type": "REVENUE",
+    "amount": "4938.461538461539",
+    "description": "Deposit for #105"
+  },
+  {
+    "date": "2025-01-05",
+    "day": "4",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-01-05",
+    "day": "4",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-01-06",
+    "day": "5",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-01-06",
+    "day": "5",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-01-06",
+    "day": "5",
+    "type": "REVENUE",
+    "amount": "6496.153846153846",
+    "description": "Deposit for #108"
+  },
+  {
+    "date": "2025-01-06",
+    "day": "5",
+    "type": "REVENUE",
+    "amount": "4938.461538461539",
+    "description": "Deposit for #109"
+  },
+  {
+    "date": "2025-01-07",
+    "day": "6",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-01-07",
+    "day": "6",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-01-07",
+    "day": "6",
+    "type": "REVENUE",
+    "amount": "5630.7692307692305",
+    "description": "Deposit for #110"
+  },
+  {
+    "date": "2025-01-08",
+    "day": "7",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-01-08",
+    "day": "7",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-01-08",
+    "day": "7",
+    "type": "REVENUE",
+    "amount": "5238.461538461539",
+    "description": "Deposit for #113"
+  },
+  {
+    "date": "2025-01-08",
+    "day": "7",
+    "type": "COST",
+    "amount": "20000",
+    "description": "Reordered 8 m\u00b3 of American Walnut"
+  },
+  {
+    "date": "2025-01-09",
+    "day": "8",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-01-09",
+    "day": "8",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-01-10",
+    "day": "9",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-01-10",
+    "day": "9",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-01-10",
+    "day": "9",
+    "type": "COST",
+    "amount": "11200",
+    "description": "Reordered 8 m\u00b3 of Victorian Ash"
+  },
+  {
+    "date": "2025-01-11",
+    "day": "10",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-01-11",
+    "day": "10",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-01-12",
+    "day": "11",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-01-12",
+    "day": "11",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-01-12",
+    "day": "11",
+    "type": "REVENUE",
+    "amount": "4846.153846153846",
+    "description": "Deposit for #119"
+  },
+  {
+    "date": "2025-01-13",
+    "day": "12",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-01-13",
+    "day": "12",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-01-13",
+    "day": "12",
+    "type": "REVENUE",
+    "amount": "6888.461538461539",
+    "description": "Deposit for #120"
+  },
+  {
+    "date": "2025-01-13",
+    "day": "12",
+    "type": "REVENUE",
+    "amount": "6103.846153846154",
+    "description": "Deposit for #121"
+  },
+  {
+    "date": "2025-01-14",
+    "day": "13",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-01-14",
+    "day": "13",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-01-14",
+    "day": "13",
+    "type": "REVENUE",
+    "amount": "4938.461538461539",
+    "description": "Final payment for #105"
+  },
+  {
+    "date": "2025-01-15",
+    "day": "14",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-01-15",
+    "day": "14",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-01-15",
+    "day": "14",
+    "type": "REVENUE",
+    "amount": "6103.846153846154",
+    "description": "Deposit for #123"
+  },
+  {
+    "date": "2025-01-16",
+    "day": "15",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-01-16",
+    "day": "15",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-01-16",
+    "day": "15",
+    "type": "REVENUE",
+    "amount": "6496.153846153846",
+    "description": "Final payment for #108"
+  },
+  {
+    "date": "2025-01-16",
+    "day": "15",
+    "type": "REVENUE",
+    "amount": "4938.461538461539",
+    "description": "Final payment for #109"
+  },
+  {
+    "date": "2025-01-17",
+    "day": "16",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-01-17",
+    "day": "16",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-01-18",
+    "day": "17",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-01-18",
+    "day": "17",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-01-18",
+    "day": "17",
+    "type": "REVENUE",
+    "amount": "5330.7692307692305",
+    "description": "Deposit for #129"
+  },
+  {
+    "date": "2025-01-19",
+    "day": "18",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-01-19",
+    "day": "18",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-01-19",
+    "day": "18",
+    "type": "REVENUE",
+    "amount": "4546.153846153846",
+    "description": "Deposit for #130"
+  },
+  {
+    "date": "2025-01-19",
+    "day": "18",
+    "type": "REVENUE",
+    "amount": "5238.461538461539",
+    "description": "Final payment for #113"
+  },
+  {
+    "date": "2025-01-20",
+    "day": "19",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-01-20",
+    "day": "19",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-01-21",
+    "day": "20",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-01-21",
+    "day": "20",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-01-21",
+    "day": "20",
+    "type": "REVENUE",
+    "amount": "5630.7692307692305",
+    "description": "Final payment for #110"
+  },
+  {
+    "date": "2025-01-22",
+    "day": "21",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-01-22",
+    "day": "21",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-01-22",
+    "day": "21",
+    "type": "REVENUE",
+    "amount": "4846.153846153846",
+    "description": "Final payment for #119"
+  },
+  {
+    "date": "2025-01-22",
+    "day": "21",
+    "type": "REVENUE",
+    "amount": "6103.846153846154",
+    "description": "Final payment for #121"
+  },
+  {
+    "date": "2025-01-23",
+    "day": "22",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-01-23",
+    "day": "22",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-01-24",
+    "day": "23",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-01-24",
+    "day": "23",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-01-24",
+    "day": "23",
+    "type": "REVENUE",
+    "amount": "6888.461538461539",
+    "description": "Final payment for #120"
+  },
+  {
+    "date": "2025-01-24",
+    "day": "23",
+    "type": "REVENUE",
+    "amount": "6103.846153846154",
+    "description": "Final payment for #123"
+  },
+  {
+    "date": "2025-01-25",
+    "day": "24",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-01-25",
+    "day": "24",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-01-25",
+    "day": "24",
+    "type": "REVENUE",
+    "amount": "3836.538461538462",
+    "description": "Deposit for #139"
+  },
+  {
+    "date": "2025-01-26",
+    "day": "25",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-01-26",
+    "day": "25",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-01-26",
+    "day": "25",
+    "type": "REVENUE",
+    "amount": "6023.076923076924",
+    "description": "Deposit for #140"
+  },
+  {
+    "date": "2025-01-27",
+    "day": "26",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-01-27",
+    "day": "26",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-01-28",
+    "day": "27",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-01-28",
+    "day": "27",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-01-29",
+    "day": "28",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-01-29",
+    "day": "28",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-01-30",
+    "day": "29",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-01-30",
+    "day": "29",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-01-30",
+    "day": "29",
+    "type": "REVENUE",
+    "amount": "5630.7692307692305",
+    "description": "Deposit for #144"
+  },
+  {
+    "date": "2025-01-30",
+    "day": "29",
+    "type": "REVENUE",
+    "amount": "4546.153846153846",
+    "description": "Final payment for #130"
+  },
+  {
+    "date": "2025-01-31",
+    "day": "30",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-01-31",
+    "day": "30",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-02-01",
+    "day": "31",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-02-01",
+    "day": "31",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-02-01",
+    "day": "31",
+    "type": "REVENUE",
+    "amount": "7280.7692307692305",
+    "description": "Deposit for #147"
+  },
+  {
+    "date": "2025-02-01",
+    "day": "31",
+    "type": "REVENUE",
+    "amount": "5330.7692307692305",
+    "description": "Final payment for #129"
+  },
+  {
+    "date": "2025-02-02",
+    "day": "32",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-02-02",
+    "day": "32",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-02-02",
+    "day": "32",
+    "type": "REVENUE",
+    "amount": "3836.538461538462",
+    "description": "Final payment for #139"
+  },
+  {
+    "date": "2025-02-02",
+    "day": "32",
+    "type": "COST",
+    "amount": "11200",
+    "description": "Reordered 8 m\u00b3 of Victorian Ash"
+  },
+  {
+    "date": "2025-02-03",
+    "day": "33",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-02-03",
+    "day": "33",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-02-03",
+    "day": "33",
+    "type": "REVENUE",
+    "amount": "7280.7692307692305",
+    "description": "Deposit for #149"
+  },
+  {
+    "date": "2025-02-04",
+    "day": "34",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-02-04",
+    "day": "34",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-02-04",
+    "day": "34",
+    "type": "COST",
+    "amount": "20000",
+    "description": "Reordered 8 m\u00b3 of American Walnut"
+  },
+  {
+    "date": "2025-02-05",
+    "day": "35",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-02-05",
+    "day": "35",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-02-06",
+    "day": "36",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-02-06",
+    "day": "36",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-02-07",
+    "day": "37",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-02-07",
+    "day": "37",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-02-07",
+    "day": "37",
+    "type": "REVENUE",
+    "amount": "6103.846153846154",
+    "description": "Deposit for #154"
+  },
+  {
+    "date": "2025-02-07",
+    "day": "37",
+    "type": "REVENUE",
+    "amount": "5330.7692307692305",
+    "description": "Deposit for #155"
+  },
+  {
+    "date": "2025-02-08",
+    "day": "38",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-02-08",
+    "day": "38",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-02-08",
+    "day": "38",
+    "type": "REVENUE",
+    "amount": "6496.153846153846",
+    "description": "Deposit for #156"
+  },
+  {
+    "date": "2025-02-09",
+    "day": "39",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-02-09",
+    "day": "39",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-02-09",
+    "day": "39",
+    "type": "REVENUE",
+    "amount": "6023.076923076924",
+    "description": "Final payment for #140"
+  },
+  {
+    "date": "2025-02-10",
+    "day": "40",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-02-10",
+    "day": "40",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-02-10",
+    "day": "40",
+    "type": "REVENUE",
+    "amount": "5630.7692307692305",
+    "description": "Deposit for #160"
+  },
+  {
+    "date": "2025-02-10",
+    "day": "40",
+    "type": "COST",
+    "amount": "12000",
+    "description": "Reordered 10 m\u00b3 of Tasmanian Oak"
+  },
+  {
+    "date": "2025-02-11",
+    "day": "41",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-02-11",
+    "day": "41",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-02-12",
+    "day": "42",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-02-12",
+    "day": "42",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-02-13",
+    "day": "43",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-02-13",
+    "day": "43",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-02-13",
+    "day": "43",
+    "type": "REVENUE",
+    "amount": "5238.461538461539",
+    "description": "Deposit for #164"
+  },
+  {
+    "date": "2025-02-14",
+    "day": "44",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-02-14",
+    "day": "44",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-02-14",
+    "day": "44",
+    "type": "REVENUE",
+    "amount": "6496.153846153846",
+    "description": "Deposit for #165"
+  },
+  {
+    "date": "2025-02-15",
+    "day": "45",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-02-15",
+    "day": "45",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-02-15",
+    "day": "45",
+    "type": "REVENUE",
+    "amount": "5630.7692307692305",
+    "description": "Deposit for #167"
+  },
+  {
+    "date": "2025-02-15",
+    "day": "45",
+    "type": "REVENUE",
+    "amount": "5630.7692307692305",
+    "description": "Final payment for #144"
+  },
+  {
+    "date": "2025-02-15",
+    "day": "45",
+    "type": "REVENUE",
+    "amount": "7280.7692307692305",
+    "description": "Final payment for #147"
+  },
+  {
+    "date": "2025-02-16",
+    "day": "46",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-02-16",
+    "day": "46",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-02-16",
+    "day": "46",
+    "type": "REVENUE",
+    "amount": "6103.846153846154",
+    "description": "Final payment for #154"
+  },
+  {
+    "date": "2025-02-17",
+    "day": "47",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-02-17",
+    "day": "47",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-02-18",
+    "day": "48",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-02-18",
+    "day": "48",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-02-18",
+    "day": "48",
+    "type": "COST",
+    "amount": "20000",
+    "description": "Reordered 8 m\u00b3 of American Walnut"
+  },
+  {
+    "date": "2025-02-18",
+    "day": "48",
+    "type": "COST",
+    "amount": "11200",
+    "description": "Reordered 8 m\u00b3 of Victorian Ash"
+  },
+  {
+    "date": "2025-02-19",
+    "day": "49",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-02-19",
+    "day": "49",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-02-19",
+    "day": "49",
+    "type": "REVENUE",
+    "amount": "7280.7692307692305",
+    "description": "Final payment for #149"
+  },
+  {
+    "date": "2025-02-20",
+    "day": "50",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-02-20",
+    "day": "50",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-02-20",
+    "day": "50",
+    "type": "REVENUE",
+    "amount": "5630.7692307692305",
+    "description": "Deposit for #174"
+  },
+  {
+    "date": "2025-02-20",
+    "day": "50",
+    "type": "REVENUE",
+    "amount": "6496.153846153846",
+    "description": "Final payment for #156"
+  },
+  {
+    "date": "2025-02-21",
+    "day": "51",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-02-21",
+    "day": "51",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-02-21",
+    "day": "51",
+    "type": "REVENUE",
+    "amount": "4453.846153846154",
+    "description": "Deposit for #176"
+  },
+  {
+    "date": "2025-02-21",
+    "day": "51",
+    "type": "REVENUE",
+    "amount": "5330.7692307692305",
+    "description": "Final payment for #155"
+  },
+  {
+    "date": "2025-02-22",
+    "day": "52",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-02-22",
+    "day": "52",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-02-22",
+    "day": "52",
+    "type": "REVENUE",
+    "amount": "5630.7692307692305",
+    "description": "Deposit for #177"
+  },
+  {
+    "date": "2025-02-23",
+    "day": "53",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-02-23",
+    "day": "53",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-02-23",
+    "day": "53",
+    "type": "REVENUE",
+    "amount": "6023.076923076924",
+    "description": "Deposit for #180"
+  },
+  {
+    "date": "2025-02-23",
+    "day": "53",
+    "type": "REVENUE",
+    "amount": "5238.461538461539",
+    "description": "Final payment for #164"
+  },
+  {
+    "date": "2025-02-24",
+    "day": "54",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-02-24",
+    "day": "54",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-02-25",
+    "day": "55",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-02-25",
+    "day": "55",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-02-25",
+    "day": "55",
+    "type": "REVENUE",
+    "amount": "4453.846153846154",
+    "description": "Deposit for #183"
+  },
+  {
+    "date": "2025-02-25",
+    "day": "55",
+    "type": "REVENUE",
+    "amount": "5630.7692307692305",
+    "description": "Final payment for #160"
+  },
+  {
+    "date": "2025-02-26",
+    "day": "56",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-02-26",
+    "day": "56",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-02-26",
+    "day": "56",
+    "type": "COST",
+    "amount": "11200",
+    "description": "Reordered 8 m\u00b3 of Victorian Ash"
+  },
+  {
+    "date": "2025-02-27",
+    "day": "57",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-02-27",
+    "day": "57",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-02-27",
+    "day": "57",
+    "type": "REVENUE",
+    "amount": "6023.076923076924",
+    "description": "Deposit for #185"
+  },
+  {
+    "date": "2025-02-27",
+    "day": "57",
+    "type": "REVENUE",
+    "amount": "6496.153846153846",
+    "description": "Final payment for #165"
+  },
+  {
+    "date": "2025-02-28",
+    "day": "58",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-02-28",
+    "day": "58",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-03-01",
+    "day": "59",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-03-01",
+    "day": "59",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-03-01",
+    "day": "59",
+    "type": "REVENUE",
+    "amount": "6103.846153846154",
+    "description": "Deposit for #187"
+  },
+  {
+    "date": "2025-03-02",
+    "day": "60",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-03-02",
+    "day": "60",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-03-02",
+    "day": "60",
+    "type": "REVENUE",
+    "amount": "4846.153846153846",
+    "description": "Deposit for #189"
+  },
+  {
+    "date": "2025-03-02",
+    "day": "60",
+    "type": "REVENUE",
+    "amount": "5238.461538461539",
+    "description": "Deposit for #190"
+  },
+  {
+    "date": "2025-03-02",
+    "day": "60",
+    "type": "REVENUE",
+    "amount": "5630.7692307692305",
+    "description": "Final payment for #167"
+  },
+  {
+    "date": "2025-03-02",
+    "day": "60",
+    "type": "REVENUE",
+    "amount": "4453.846153846154",
+    "description": "Final payment for #176"
+  },
+  {
+    "date": "2025-03-03",
+    "day": "61",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-03-03",
+    "day": "61",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-03-04",
+    "day": "62",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-03-04",
+    "day": "62",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-03-04",
+    "day": "62",
+    "type": "REVENUE",
+    "amount": "6103.846153846154",
+    "description": "Deposit for #193"
+  },
+  {
+    "date": "2025-03-04",
+    "day": "62",
+    "type": "COST",
+    "amount": "11200",
+    "description": "Reordered 8 m\u00b3 of Victorian Ash"
+  },
+  {
+    "date": "2025-03-05",
+    "day": "63",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-03-05",
+    "day": "63",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-03-05",
+    "day": "63",
+    "type": "REVENUE",
+    "amount": "4546.153846153846",
+    "description": "Deposit for #194"
+  },
+  {
+    "date": "2025-03-05",
+    "day": "63",
+    "type": "REVENUE",
+    "amount": "7015.384615384615",
+    "description": "Deposit for #195"
+  },
+  {
+    "date": "2025-03-06",
+    "day": "64",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-03-06",
+    "day": "64",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-03-06",
+    "day": "64",
+    "type": "REVENUE",
+    "amount": "4938.461538461539",
+    "description": "Deposit for #197"
+  },
+  {
+    "date": "2025-03-06",
+    "day": "64",
+    "type": "REVENUE",
+    "amount": "5630.7692307692305",
+    "description": "Final payment for #174"
+  },
+  {
+    "date": "2025-03-06",
+    "day": "64",
+    "type": "REVENUE",
+    "amount": "4453.846153846154",
+    "description": "Final payment for #183"
+  },
+  {
+    "date": "2025-03-07",
+    "day": "65",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-03-07",
+    "day": "65",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-03-07",
+    "day": "65",
+    "type": "REVENUE",
+    "amount": "6496.153846153846",
+    "description": "Deposit for #198"
+  },
+  {
+    "date": "2025-03-08",
+    "day": "66",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-03-08",
+    "day": "66",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-03-08",
+    "day": "66",
+    "type": "REVENUE",
+    "amount": "4938.461538461539",
+    "description": "Deposit for #200"
+  },
+  {
+    "date": "2025-03-08",
+    "day": "66",
+    "type": "REVENUE",
+    "amount": "5630.7692307692305",
+    "description": "Final payment for #177"
+  },
+  {
+    "date": "2025-03-09",
+    "day": "67",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-03-09",
+    "day": "67",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-03-10",
+    "day": "68",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-03-10",
+    "day": "68",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-03-10",
+    "day": "68",
+    "type": "REVENUE",
+    "amount": "6023.076923076924",
+    "description": "Final payment for #180"
+  },
+  {
+    "date": "2025-03-10",
+    "day": "68",
+    "type": "REVENUE",
+    "amount": "6103.846153846154",
+    "description": "Final payment for #187"
+  },
+  {
+    "date": "2025-03-11",
+    "day": "69",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-03-11",
+    "day": "69",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-03-12",
+    "day": "70",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-03-12",
+    "day": "70",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-03-13",
+    "day": "71",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-03-13",
+    "day": "71",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-03-13",
+    "day": "71",
+    "type": "REVENUE",
+    "amount": "6023.076923076924",
+    "description": "Final payment for #185"
+  },
+  {
+    "date": "2025-03-13",
+    "day": "71",
+    "type": "REVENUE",
+    "amount": "4846.153846153846",
+    "description": "Final payment for #189"
+  },
+  {
+    "date": "2025-03-13",
+    "day": "71",
+    "type": "REVENUE",
+    "amount": "6103.846153846154",
+    "description": "Final payment for #193"
+  },
+  {
+    "date": "2025-03-14",
+    "day": "72",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-03-14",
+    "day": "72",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-03-14",
+    "day": "72",
+    "type": "REVENUE",
+    "amount": "6496.153846153846",
+    "description": "Deposit for #209"
+  },
+  {
+    "date": "2025-03-14",
+    "day": "72",
+    "type": "REVENUE",
+    "amount": "6496.153846153846",
+    "description": "Deposit for #210"
+  },
+  {
+    "date": "2025-03-14",
+    "day": "72",
+    "type": "REVENUE",
+    "amount": "5238.461538461539",
+    "description": "Final payment for #190"
+  },
+  {
+    "date": "2025-03-15",
+    "day": "73",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-03-15",
+    "day": "73",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-03-15",
+    "day": "73",
+    "type": "REVENUE",
+    "amount": "6103.846153846154",
+    "description": "Deposit for #211"
+  },
+  {
+    "date": "2025-03-16",
+    "day": "74",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-03-16",
+    "day": "74",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-03-16",
+    "day": "74",
+    "type": "REVENUE",
+    "amount": "7015.384615384615",
+    "description": "Deposit for #213"
+  },
+  {
+    "date": "2025-03-16",
+    "day": "74",
+    "type": "REVENUE",
+    "amount": "6888.461538461539",
+    "description": "Deposit for #214"
+  },
+  {
+    "date": "2025-03-16",
+    "day": "74",
+    "type": "COST",
+    "amount": "20000",
+    "description": "Reordered 8 m\u00b3 of American Walnut"
+  },
+  {
+    "date": "2025-03-17",
+    "day": "75",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-03-17",
+    "day": "75",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-03-17",
+    "day": "75",
+    "type": "REVENUE",
+    "amount": "4546.153846153846",
+    "description": "Final payment for #194"
+  },
+  {
+    "date": "2025-03-18",
+    "day": "76",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-03-18",
+    "day": "76",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-03-18",
+    "day": "76",
+    "type": "REVENUE",
+    "amount": "4546.153846153846",
+    "description": "Deposit for #216"
+  },
+  {
+    "date": "2025-03-18",
+    "day": "76",
+    "type": "REVENUE",
+    "amount": "4938.461538461539",
+    "description": "Final payment for #197"
+  },
+  {
+    "date": "2025-03-18",
+    "day": "76",
+    "type": "REVENUE",
+    "amount": "6496.153846153846",
+    "description": "Final payment for #198"
+  },
+  {
+    "date": "2025-03-19",
+    "day": "77",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-03-19",
+    "day": "77",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-03-19",
+    "day": "77",
+    "type": "REVENUE",
+    "amount": "5238.461538461539",
+    "description": "Deposit for #217"
+  },
+  {
+    "date": "2025-03-19",
+    "day": "77",
+    "type": "REVENUE",
+    "amount": "5630.7692307692305",
+    "description": "Deposit for #218"
+  },
+  {
+    "date": "2025-03-19",
+    "day": "77",
+    "type": "COST",
+    "amount": "12000",
+    "description": "Reordered 10 m\u00b3 of Tasmanian Oak"
+  },
+  {
+    "date": "2025-03-20",
+    "day": "78",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-03-20",
+    "day": "78",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-03-21",
+    "day": "79",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-03-21",
+    "day": "79",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-03-21",
+    "day": "79",
+    "type": "REVENUE",
+    "amount": "6496.153846153846",
+    "description": "Deposit for #221"
+  },
+  {
+    "date": "2025-03-22",
+    "day": "80",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-03-22",
+    "day": "80",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-03-22",
+    "day": "80",
+    "type": "REVENUE",
+    "amount": "4453.846153846154",
+    "description": "Deposit for #222"
+  },
+  {
+    "date": "2025-03-22",
+    "day": "80",
+    "type": "REVENUE",
+    "amount": "7015.384615384615",
+    "description": "Final payment for #195"
+  },
+  {
+    "date": "2025-03-22",
+    "day": "80",
+    "type": "REVENUE",
+    "amount": "4938.461538461539",
+    "description": "Final payment for #200"
+  },
+  {
+    "date": "2025-03-23",
+    "day": "81",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-03-23",
+    "day": "81",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-03-24",
+    "day": "82",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-03-24",
+    "day": "82",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-03-24",
+    "day": "82",
+    "type": "REVENUE",
+    "amount": "7673.076923076924",
+    "description": "Deposit for #226"
+  },
+  {
+    "date": "2025-03-24",
+    "day": "82",
+    "type": "REVENUE",
+    "amount": "6496.153846153846",
+    "description": "Deposit for #227"
+  },
+  {
+    "date": "2025-03-25",
+    "day": "83",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-03-25",
+    "day": "83",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-03-25",
+    "day": "83",
+    "type": "REVENUE",
+    "amount": "5330.7692307692305",
+    "description": "Deposit for #229"
+  },
+  {
+    "date": "2025-03-25",
+    "day": "83",
+    "type": "REVENUE",
+    "amount": "6496.153846153846",
+    "description": "Final payment for #209"
+  },
+  {
+    "date": "2025-03-25",
+    "day": "83",
+    "type": "REVENUE",
+    "amount": "6103.846153846154",
+    "description": "Final payment for #211"
+  },
+  {
+    "date": "2025-03-25",
+    "day": "83",
+    "type": "COST",
+    "amount": "20000",
+    "description": "Reordered 8 m\u00b3 of American Walnut"
+  },
+  {
+    "date": "2025-03-26",
+    "day": "84",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-03-26",
+    "day": "84",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-03-26",
+    "day": "84",
+    "type": "REVENUE",
+    "amount": "6496.153846153846",
+    "description": "Deposit for #231"
+  },
+  {
+    "date": "2025-03-26",
+    "day": "84",
+    "type": "REVENUE",
+    "amount": "6496.153846153846",
+    "description": "Final payment for #210"
+  },
+  {
+    "date": "2025-03-26",
+    "day": "84",
+    "type": "REVENUE",
+    "amount": "6888.461538461539",
+    "description": "Final payment for #214"
+  },
+  {
+    "date": "2025-03-27",
+    "day": "85",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-03-27",
+    "day": "85",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-03-27",
+    "day": "85",
+    "type": "REVENUE",
+    "amount": "6888.461538461539",
+    "description": "Deposit for #233"
+  },
+  {
+    "date": "2025-03-27",
+    "day": "85",
+    "type": "COST",
+    "amount": "11200",
+    "description": "Reordered 8 m\u00b3 of Victorian Ash"
+  },
+  {
+    "date": "2025-03-28",
+    "day": "86",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-03-28",
+    "day": "86",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-03-29",
+    "day": "87",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-03-29",
+    "day": "87",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-03-29",
+    "day": "87",
+    "type": "REVENUE",
+    "amount": "2861.538461538462",
+    "description": "Deposit for #236"
+  },
+  {
+    "date": "2025-03-30",
+    "day": "88",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-03-30",
+    "day": "88",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-03-30",
+    "day": "88",
+    "type": "REVENUE",
+    "amount": "4546.153846153846",
+    "description": "Final payment for #216"
+  },
+  {
+    "date": "2025-03-30",
+    "day": "88",
+    "type": "REVENUE",
+    "amount": "5238.461538461539",
+    "description": "Final payment for #217"
+  },
+  {
+    "date": "2025-03-31",
+    "day": "89",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-03-31",
+    "day": "89",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-03-31",
+    "day": "89",
+    "type": "REVENUE",
+    "amount": "5723.076923076924",
+    "description": "Deposit for #240"
+  },
+  {
+    "date": "2025-04-01",
+    "day": "90",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-04-01",
+    "day": "90",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-04-01",
+    "day": "90",
+    "type": "REVENUE",
+    "amount": "7673.076923076924",
+    "description": "Deposit for #241"
+  },
+  {
+    "date": "2025-04-02",
+    "day": "91",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-04-02",
+    "day": "91",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-04-02",
+    "day": "91",
+    "type": "REVENUE",
+    "amount": "7015.384615384615",
+    "description": "Final payment for #213"
+  },
+  {
+    "date": "2025-04-02",
+    "day": "91",
+    "type": "REVENUE",
+    "amount": "4453.846153846154",
+    "description": "Final payment for #222"
+  },
+  {
+    "date": "2025-04-02",
+    "day": "91",
+    "type": "COST",
+    "amount": "20000",
+    "description": "Reordered 8 m\u00b3 of American Walnut"
+  },
+  {
+    "date": "2025-04-03",
+    "day": "92",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-04-03",
+    "day": "92",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-04-03",
+    "day": "92",
+    "type": "REVENUE",
+    "amount": "2469.2307692307695",
+    "description": "Deposit for #246"
+  },
+  {
+    "date": "2025-04-03",
+    "day": "92",
+    "type": "REVENUE",
+    "amount": "6496.153846153846",
+    "description": "Final payment for #221"
+  },
+  {
+    "date": "2025-04-03",
+    "day": "92",
+    "type": "COST",
+    "amount": "12000",
+    "description": "Reordered 10 m\u00b3 of Tasmanian Oak"
+  },
+  {
+    "date": "2025-04-04",
+    "day": "93",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-04-04",
+    "day": "93",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-04-04",
+    "day": "93",
+    "type": "REVENUE",
+    "amount": "6496.153846153846",
+    "description": "Final payment for #227"
+  },
+  {
+    "date": "2025-04-05",
+    "day": "94",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-04-05",
+    "day": "94",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-04-06",
+    "day": "95",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-04-06",
+    "day": "95",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-04-06",
+    "day": "95",
+    "type": "REVENUE",
+    "amount": "6100",
+    "description": "Deposit for #251"
+  },
+  {
+    "date": "2025-04-06",
+    "day": "95",
+    "type": "REVENUE",
+    "amount": "6150",
+    "description": "Deposit for #252"
+  },
+  {
+    "date": "2025-04-07",
+    "day": "96",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-04-07",
+    "day": "96",
+    "type": "COST",
+    "amount": "3840",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-04-08",
+    "day": "97",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-04-08",
+    "day": "97",
+    "type": "COST",
+    "amount": "3840",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-04-08",
+    "day": "97",
+    "type": "REVENUE",
+    "amount": "6100",
+    "description": "Deposit for #256"
+  },
+  {
+    "date": "2025-04-08",
+    "day": "97",
+    "type": "REVENUE",
+    "amount": "2861.538461538462",
+    "description": "Final payment for #236"
+  },
+  {
+    "date": "2025-04-09",
+    "day": "98",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-04-09",
+    "day": "98",
+    "type": "COST",
+    "amount": "3840",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-04-09",
+    "day": "98",
+    "type": "REVENUE",
+    "amount": "3475",
+    "description": "Deposit for #257"
+  },
+  {
+    "date": "2025-04-09",
+    "day": "98",
+    "type": "REVENUE",
+    "amount": "5630.7692307692305",
+    "description": "Final payment for #218"
+  },
+  {
+    "date": "2025-04-09",
+    "day": "98",
+    "type": "REVENUE",
+    "amount": "6496.153846153846",
+    "description": "Final payment for #231"
+  },
+  {
+    "date": "2025-04-10",
+    "day": "99",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-04-10",
+    "day": "99",
+    "type": "COST",
+    "amount": "3840",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-04-10",
+    "day": "99",
+    "type": "REVENUE",
+    "amount": "5700",
+    "description": "Deposit for #259"
+  },
+  {
+    "date": "2025-04-10",
+    "day": "99",
+    "type": "REVENUE",
+    "amount": "7673.076923076924",
+    "description": "Final payment for #226"
+  },
+  {
+    "date": "2025-04-10",
+    "day": "99",
+    "type": "REVENUE",
+    "amount": "5330.7692307692305",
+    "description": "Final payment for #229"
+  },
+  {
+    "date": "2025-04-10",
+    "day": "99",
+    "type": "REVENUE",
+    "amount": "6888.461538461539",
+    "description": "Final payment for #233"
+  },
+  {
+    "date": "2025-04-11",
+    "day": "100",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-04-11",
+    "day": "100",
+    "type": "COST",
+    "amount": "3840",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-04-11",
+    "day": "100",
+    "type": "REVENUE",
+    "amount": "7673.076923076924",
+    "description": "Deposit for #261"
+  },
+  {
+    "date": "2025-04-12",
+    "day": "101",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-04-12",
+    "day": "101",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-04-12",
+    "day": "101",
+    "type": "REVENUE",
+    "amount": "7280.7692307692305",
+    "description": "Deposit for #264"
+  },
+  {
+    "date": "2025-04-13",
+    "day": "102",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-04-13",
+    "day": "102",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-04-13",
+    "day": "102",
+    "type": "REVENUE",
+    "amount": "2469.2307692307695",
+    "description": "Final payment for #246"
+  },
+  {
+    "date": "2025-04-14",
+    "day": "103",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-04-14",
+    "day": "103",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-04-14",
+    "day": "103",
+    "type": "REVENUE",
+    "amount": "4546.153846153846",
+    "description": "Deposit for #267"
+  },
+  {
+    "date": "2025-04-15",
+    "day": "104",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-04-15",
+    "day": "104",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-04-15",
+    "day": "104",
+    "type": "REVENUE",
+    "amount": "3836.538461538462",
+    "description": "Deposit for #268"
+  },
+  {
+    "date": "2025-04-15",
+    "day": "104",
+    "type": "COST",
+    "amount": "20000",
+    "description": "Reordered 8 m\u00b3 of American Walnut"
+  },
+  {
+    "date": "2025-04-15",
+    "day": "104",
+    "type": "COST",
+    "amount": "11200",
+    "description": "Reordered 8 m\u00b3 of Victorian Ash"
+  },
+  {
+    "date": "2025-04-16",
+    "day": "105",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-04-16",
+    "day": "105",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-04-16",
+    "day": "105",
+    "type": "REVENUE",
+    "amount": "5723.076923076924",
+    "description": "Deposit for #271"
+  },
+  {
+    "date": "2025-04-16",
+    "day": "105",
+    "type": "REVENUE",
+    "amount": "7673.076923076924",
+    "description": "Final payment for #241"
+  },
+  {
+    "date": "2025-04-16",
+    "day": "105",
+    "type": "REVENUE",
+    "amount": "6150",
+    "description": "Final payment for #252"
+  },
+  {
+    "date": "2025-04-16",
+    "day": "105",
+    "type": "REVENUE",
+    "amount": "3475",
+    "description": "Final payment for #257"
+  },
+  {
+    "date": "2025-04-17",
+    "day": "106",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-04-17",
+    "day": "106",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-04-17",
+    "day": "106",
+    "type": "REVENUE",
+    "amount": "4453.846153846154",
+    "description": "Deposit for #272"
+  },
+  {
+    "date": "2025-04-17",
+    "day": "106",
+    "type": "REVENUE",
+    "amount": "5723.076923076924",
+    "description": "Final payment for #240"
+  },
+  {
+    "date": "2025-04-18",
+    "day": "107",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-04-18",
+    "day": "107",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-04-19",
+    "day": "108",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-04-19",
+    "day": "108",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-04-19",
+    "day": "108",
+    "type": "REVENUE",
+    "amount": "4846.153846153846",
+    "description": "Deposit for #276"
+  },
+  {
+    "date": "2025-04-20",
+    "day": "109",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-04-20",
+    "day": "109",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-04-20",
+    "day": "109",
+    "type": "REVENUE",
+    "amount": "4846.153846153846",
+    "description": "Deposit for #279"
+  },
+  {
+    "date": "2025-04-21",
+    "day": "110",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-04-21",
+    "day": "110",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-04-22",
+    "day": "111",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-04-22",
+    "day": "111",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-04-22",
+    "day": "111",
+    "type": "REVENUE",
+    "amount": "2861.538461538462",
+    "description": "Deposit for #282"
+  },
+  {
+    "date": "2025-04-23",
+    "day": "112",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-04-23",
+    "day": "112",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-04-23",
+    "day": "112",
+    "type": "REVENUE",
+    "amount": "6496.153846153846",
+    "description": "Deposit for #285"
+  },
+  {
+    "date": "2025-04-23",
+    "day": "112",
+    "type": "REVENUE",
+    "amount": "3836.538461538462",
+    "description": "Final payment for #268"
+  },
+  {
+    "date": "2025-04-24",
+    "day": "113",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-04-24",
+    "day": "113",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-04-24",
+    "day": "113",
+    "type": "REVENUE",
+    "amount": "6100",
+    "description": "Final payment for #251"
+  },
+  {
+    "date": "2025-04-24",
+    "day": "113",
+    "type": "REVENUE",
+    "amount": "6100",
+    "description": "Final payment for #256"
+  },
+  {
+    "date": "2025-04-24",
+    "day": "113",
+    "type": "REVENUE",
+    "amount": "4546.153846153846",
+    "description": "Final payment for #267"
+  },
+  {
+    "date": "2025-04-25",
+    "day": "114",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-04-25",
+    "day": "114",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-04-26",
+    "day": "115",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-04-26",
+    "day": "115",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-04-26",
+    "day": "115",
+    "type": "REVENUE",
+    "amount": "4546.153846153846",
+    "description": "Deposit for #291"
+  },
+  {
+    "date": "2025-04-27",
+    "day": "116",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-04-27",
+    "day": "116",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-04-27",
+    "day": "116",
+    "type": "REVENUE",
+    "amount": "5330.7692307692305",
+    "description": "Deposit for #293"
+  },
+  {
+    "date": "2025-04-27",
+    "day": "116",
+    "type": "REVENUE",
+    "amount": "5700",
+    "description": "Final payment for #259"
+  },
+  {
+    "date": "2025-04-28",
+    "day": "117",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-04-28",
+    "day": "117",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-04-28",
+    "day": "117",
+    "type": "REVENUE",
+    "amount": "7280.7692307692305",
+    "description": "Deposit for #294"
+  },
+  {
+    "date": "2025-04-28",
+    "day": "117",
+    "type": "REVENUE",
+    "amount": "7280.7692307692305",
+    "description": "Final payment for #264"
+  },
+  {
+    "date": "2025-04-29",
+    "day": "118",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-04-29",
+    "day": "118",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-04-29",
+    "day": "118",
+    "type": "REVENUE",
+    "amount": "6888.461538461539",
+    "description": "Deposit for #297"
+  },
+  {
+    "date": "2025-04-29",
+    "day": "118",
+    "type": "REVENUE",
+    "amount": "7673.076923076924",
+    "description": "Final payment for #261"
+  },
+  {
+    "date": "2025-04-30",
+    "day": "119",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-04-30",
+    "day": "119",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-04-30",
+    "day": "119",
+    "type": "REVENUE",
+    "amount": "7465.384615384615",
+    "description": "Deposit for #299"
+  },
+  {
+    "date": "2025-04-30",
+    "day": "119",
+    "type": "REVENUE",
+    "amount": "5723.076923076924",
+    "description": "Final payment for #271"
+  },
+  {
+    "date": "2025-04-30",
+    "day": "119",
+    "type": "COST",
+    "amount": "12000",
+    "description": "Reordered 10 m\u00b3 of Tasmanian Oak"
+  },
+  {
+    "date": "2025-05-01",
+    "day": "120",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-05-01",
+    "day": "120",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-05-01",
+    "day": "120",
+    "type": "REVENUE",
+    "amount": "4453.846153846154",
+    "description": "Final payment for #272"
+  },
+  {
+    "date": "2025-05-01",
+    "day": "120",
+    "type": "REVENUE",
+    "amount": "2861.538461538462",
+    "description": "Final payment for #282"
+  },
+  {
+    "date": "2025-05-01",
+    "day": "120",
+    "type": "COST",
+    "amount": "20000",
+    "description": "Reordered 8 m\u00b3 of American Walnut"
+  },
+  {
+    "date": "2025-05-02",
+    "day": "121",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-05-02",
+    "day": "121",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-05-02",
+    "day": "121",
+    "type": "REVENUE",
+    "amount": "4846.153846153846",
+    "description": "Final payment for #276"
+  },
+  {
+    "date": "2025-05-02",
+    "day": "121",
+    "type": "REVENUE",
+    "amount": "4846.153846153846",
+    "description": "Final payment for #279"
+  },
+  {
+    "date": "2025-05-03",
+    "day": "122",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-05-03",
+    "day": "122",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-05-03",
+    "day": "122",
+    "type": "COST",
+    "amount": "11200",
+    "description": "Reordered 8 m\u00b3 of Victorian Ash"
+  },
+  {
+    "date": "2025-05-04",
+    "day": "123",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-05-04",
+    "day": "123",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-05-04",
+    "day": "123",
+    "type": "REVENUE",
+    "amount": "7015.384615384615",
+    "description": "Deposit for #306"
+  },
+  {
+    "date": "2025-05-05",
+    "day": "124",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-05-05",
+    "day": "124",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-05-05",
+    "day": "124",
+    "type": "REVENUE",
+    "amount": "3444.2307692307695",
+    "description": "Deposit for #309"
+  },
+  {
+    "date": "2025-05-06",
+    "day": "125",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-05-06",
+    "day": "125",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-05-06",
+    "day": "125",
+    "type": "REVENUE",
+    "amount": "4453.846153846154",
+    "description": "Deposit for #310"
+  },
+  {
+    "date": "2025-05-06",
+    "day": "125",
+    "type": "REVENUE",
+    "amount": "6496.153846153846",
+    "description": "Final payment for #285"
+  },
+  {
+    "date": "2025-05-06",
+    "day": "125",
+    "type": "REVENUE",
+    "amount": "4546.153846153846",
+    "description": "Final payment for #291"
+  },
+  {
+    "date": "2025-05-07",
+    "day": "126",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-05-07",
+    "day": "126",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-05-08",
+    "day": "127",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-05-08",
+    "day": "127",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-05-09",
+    "day": "128",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-05-09",
+    "day": "128",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-05-10",
+    "day": "129",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-05-10",
+    "day": "129",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-05-10",
+    "day": "129",
+    "type": "REVENUE",
+    "amount": "5630.7692307692305",
+    "description": "Deposit for #317"
+  },
+  {
+    "date": "2025-05-11",
+    "day": "130",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-05-11",
+    "day": "130",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-05-11",
+    "day": "130",
+    "type": "REVENUE",
+    "amount": "6496.153846153846",
+    "description": "Deposit for #318"
+  },
+  {
+    "date": "2025-05-11",
+    "day": "130",
+    "type": "REVENUE",
+    "amount": "6888.461538461539",
+    "description": "Final payment for #297"
+  },
+  {
+    "date": "2025-05-11",
+    "day": "130",
+    "type": "REVENUE",
+    "amount": "3444.2307692307695",
+    "description": "Final payment for #309"
+  },
+  {
+    "date": "2025-05-12",
+    "day": "131",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-05-12",
+    "day": "131",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-05-12",
+    "day": "131",
+    "type": "REVENUE",
+    "amount": "5330.7692307692305",
+    "description": "Final payment for #293"
+  },
+  {
+    "date": "2025-05-12",
+    "day": "131",
+    "type": "REVENUE",
+    "amount": "7280.7692307692305",
+    "description": "Final payment for #294"
+  },
+  {
+    "date": "2025-05-13",
+    "day": "132",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-05-13",
+    "day": "132",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-05-13",
+    "day": "132",
+    "type": "REVENUE",
+    "amount": "4938.461538461539",
+    "description": "Deposit for #321"
+  },
+  {
+    "date": "2025-05-14",
+    "day": "133",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-05-14",
+    "day": "133",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-05-14",
+    "day": "133",
+    "type": "REVENUE",
+    "amount": "6888.461538461539",
+    "description": "Deposit for #322"
+  },
+  {
+    "date": "2025-05-14",
+    "day": "133",
+    "type": "REVENUE",
+    "amount": "4846.153846153846",
+    "description": "Deposit for #323"
+  },
+  {
+    "date": "2025-05-15",
+    "day": "134",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-05-15",
+    "day": "134",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-05-15",
+    "day": "134",
+    "type": "REVENUE",
+    "amount": "4453.846153846154",
+    "description": "Final payment for #310"
+  },
+  {
+    "date": "2025-05-16",
+    "day": "135",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-05-16",
+    "day": "135",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-05-16",
+    "day": "135",
+    "type": "REVENUE",
+    "amount": "4153.846153846154",
+    "description": "Deposit for #325"
+  },
+  {
+    "date": "2025-05-16",
+    "day": "135",
+    "type": "REVENUE",
+    "amount": "7465.384615384615",
+    "description": "Final payment for #299"
+  },
+  {
+    "date": "2025-05-16",
+    "day": "135",
+    "type": "COST",
+    "amount": "11200",
+    "description": "Reordered 8 m\u00b3 of Victorian Ash"
+  },
+  {
+    "date": "2025-05-17",
+    "day": "136",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-05-17",
+    "day": "136",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-05-17",
+    "day": "136",
+    "type": "REVENUE",
+    "amount": "4453.846153846154",
+    "description": "Deposit for #327"
+  },
+  {
+    "date": "2025-05-18",
+    "day": "137",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-05-18",
+    "day": "137",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-05-19",
+    "day": "138",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-05-19",
+    "day": "138",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-05-19",
+    "day": "138",
+    "type": "REVENUE",
+    "amount": "4938.461538461539",
+    "description": "Deposit for #331"
+  },
+  {
+    "date": "2025-05-20",
+    "day": "139",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-05-20",
+    "day": "139",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-05-20",
+    "day": "139",
+    "type": "REVENUE",
+    "amount": "4453.846153846154",
+    "description": "Deposit for #332"
+  },
+  {
+    "date": "2025-05-21",
+    "day": "140",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-05-21",
+    "day": "140",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-05-21",
+    "day": "140",
+    "type": "REVENUE",
+    "amount": "7412.5",
+    "description": "Deposit for #334"
+  },
+  {
+    "date": "2025-05-21",
+    "day": "140",
+    "type": "REVENUE",
+    "amount": "7015.384615384615",
+    "description": "Final payment for #306"
+  },
+  {
+    "date": "2025-05-22",
+    "day": "141",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-05-22",
+    "day": "141",
+    "type": "COST",
+    "amount": "3720",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-05-22",
+    "day": "141",
+    "type": "REVENUE",
+    "amount": "5200",
+    "description": "Deposit for #337"
+  },
+  {
+    "date": "2025-05-23",
+    "day": "142",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-05-23",
+    "day": "142",
+    "type": "COST",
+    "amount": "3720",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-05-23",
+    "day": "142",
+    "type": "REVENUE",
+    "amount": "4425",
+    "description": "Deposit for #339"
+  },
+  {
+    "date": "2025-05-23",
+    "day": "142",
+    "type": "REVENUE",
+    "amount": "6496.153846153846",
+    "description": "Final payment for #318"
+  },
+  {
+    "date": "2025-05-23",
+    "day": "142",
+    "type": "COST",
+    "amount": "12000",
+    "description": "Reordered 10 m\u00b3 of Tasmanian Oak"
+  },
+  {
+    "date": "2025-05-24",
+    "day": "143",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-05-24",
+    "day": "143",
+    "type": "COST",
+    "amount": "3720",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-05-24",
+    "day": "143",
+    "type": "REVENUE",
+    "amount": "3812.5",
+    "description": "Deposit for #340"
+  },
+  {
+    "date": "2025-05-24",
+    "day": "143",
+    "type": "REVENUE",
+    "amount": "6888.461538461539",
+    "description": "Final payment for #322"
+  },
+  {
+    "date": "2025-05-24",
+    "day": "143",
+    "type": "REVENUE",
+    "amount": "4846.153846153846",
+    "description": "Final payment for #323"
+  },
+  {
+    "date": "2025-05-25",
+    "day": "144",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-05-25",
+    "day": "144",
+    "type": "COST",
+    "amount": "3720",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-05-25",
+    "day": "144",
+    "type": "REVENUE",
+    "amount": "5675",
+    "description": "Deposit for #342"
+  },
+  {
+    "date": "2025-05-25",
+    "day": "144",
+    "type": "REVENUE",
+    "amount": "4938.461538461539",
+    "description": "Final payment for #321"
+  },
+  {
+    "date": "2025-05-26",
+    "day": "145",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-05-26",
+    "day": "145",
+    "type": "COST",
+    "amount": "3720",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-05-26",
+    "day": "145",
+    "type": "REVENUE",
+    "amount": "4153.846153846154",
+    "description": "Final payment for #325"
+  },
+  {
+    "date": "2025-05-26",
+    "day": "145",
+    "type": "COST",
+    "amount": "11200",
+    "description": "Reordered 8 m\u00b3 of Victorian Ash"
+  },
+  {
+    "date": "2025-05-27",
+    "day": "146",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-05-27",
+    "day": "146",
+    "type": "COST",
+    "amount": "3720",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-05-27",
+    "day": "146",
+    "type": "REVENUE",
+    "amount": "4453.846153846154",
+    "description": "Final payment for #327"
+  },
+  {
+    "date": "2025-05-28",
+    "day": "147",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-05-28",
+    "day": "147",
+    "type": "COST",
+    "amount": "3720",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-05-28",
+    "day": "147",
+    "type": "REVENUE",
+    "amount": "5630.7692307692305",
+    "description": "Final payment for #317"
+  },
+  {
+    "date": "2025-05-29",
+    "day": "148",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-05-29",
+    "day": "148",
+    "type": "COST",
+    "amount": "3720",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-05-29",
+    "day": "148",
+    "type": "REVENUE",
+    "amount": "5675",
+    "description": "Deposit for #349"
+  },
+  {
+    "date": "2025-05-30",
+    "day": "149",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-05-30",
+    "day": "149",
+    "type": "COST",
+    "amount": "3720",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-05-31",
+    "day": "150",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-05-31",
+    "day": "150",
+    "type": "COST",
+    "amount": "3720",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-05-31",
+    "day": "150",
+    "type": "REVENUE",
+    "amount": "4938.461538461539",
+    "description": "Final payment for #331"
+  },
+  {
+    "date": "2025-05-31",
+    "day": "150",
+    "type": "REVENUE",
+    "amount": "4453.846153846154",
+    "description": "Final payment for #332"
+  },
+  {
+    "date": "2025-06-01",
+    "day": "151",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-06-01",
+    "day": "151",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-06-01",
+    "day": "151",
+    "type": "REVENUE",
+    "amount": "6888.461538461539",
+    "description": "Deposit for #355"
+  },
+  {
+    "date": "2025-06-02",
+    "day": "152",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-06-02",
+    "day": "152",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-06-02",
+    "day": "152",
+    "type": "REVENUE",
+    "amount": "6103.846153846154",
+    "description": "Deposit for #357"
+  },
+  {
+    "date": "2025-06-03",
+    "day": "153",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-06-03",
+    "day": "153",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-06-03",
+    "day": "153",
+    "type": "REVENUE",
+    "amount": "4546.153846153846",
+    "description": "Deposit for #358"
+  },
+  {
+    "date": "2025-06-03",
+    "day": "153",
+    "type": "COST",
+    "amount": "20000",
+    "description": "Reordered 8 m\u00b3 of American Walnut"
+  },
+  {
+    "date": "2025-06-04",
+    "day": "154",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-06-04",
+    "day": "154",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-06-04",
+    "day": "154",
+    "type": "REVENUE",
+    "amount": "5200",
+    "description": "Final payment for #337"
+  },
+  {
+    "date": "2025-06-04",
+    "day": "154",
+    "type": "REVENUE",
+    "amount": "4425",
+    "description": "Final payment for #339"
+  },
+  {
+    "date": "2025-06-04",
+    "day": "154",
+    "type": "REVENUE",
+    "amount": "3812.5",
+    "description": "Final payment for #340"
+  },
+  {
+    "date": "2025-06-05",
+    "day": "155",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-06-05",
+    "day": "155",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-06-05",
+    "day": "155",
+    "type": "REVENUE",
+    "amount": "4846.153846153846",
+    "description": "Deposit for #361"
+  },
+  {
+    "date": "2025-06-06",
+    "day": "156",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-06-06",
+    "day": "156",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-06-06",
+    "day": "156",
+    "type": "REVENUE",
+    "amount": "6888.461538461539",
+    "description": "Deposit for #362"
+  },
+  {
+    "date": "2025-06-07",
+    "day": "157",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-06-07",
+    "day": "157",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-06-07",
+    "day": "157",
+    "type": "REVENUE",
+    "amount": "4938.461538461539",
+    "description": "Deposit for #363"
+  },
+  {
+    "date": "2025-06-08",
+    "day": "158",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-06-08",
+    "day": "158",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-06-08",
+    "day": "158",
+    "type": "REVENUE",
+    "amount": "7412.5",
+    "description": "Final payment for #334"
+  },
+  {
+    "date": "2025-06-09",
+    "day": "159",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-06-09",
+    "day": "159",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-06-10",
+    "day": "160",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-06-10",
+    "day": "160",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-06-10",
+    "day": "160",
+    "type": "REVENUE",
+    "amount": "3836.538461538462",
+    "description": "Deposit for #367"
+  },
+  {
+    "date": "2025-06-10",
+    "day": "160",
+    "type": "COST",
+    "amount": "12000",
+    "description": "Reordered 10 m\u00b3 of Tasmanian Oak"
+  },
+  {
+    "date": "2025-06-11",
+    "day": "161",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-06-11",
+    "day": "161",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-06-12",
+    "day": "162",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-06-12",
+    "day": "162",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-06-12",
+    "day": "162",
+    "type": "REVENUE",
+    "amount": "5675",
+    "description": "Final payment for #342"
+  },
+  {
+    "date": "2025-06-12",
+    "day": "162",
+    "type": "REVENUE",
+    "amount": "5675",
+    "description": "Final payment for #349"
+  },
+  {
+    "date": "2025-06-12",
+    "day": "162",
+    "type": "REVENUE",
+    "amount": "6888.461538461539",
+    "description": "Final payment for #355"
+  },
+  {
+    "date": "2025-06-12",
+    "day": "162",
+    "type": "REVENUE",
+    "amount": "6103.846153846154",
+    "description": "Final payment for #357"
+  },
+  {
+    "date": "2025-06-13",
+    "day": "163",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-06-13",
+    "day": "163",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-06-13",
+    "day": "163",
+    "type": "REVENUE",
+    "amount": "6103.846153846154",
+    "description": "Deposit for #371"
+  },
+  {
+    "date": "2025-06-13",
+    "day": "163",
+    "type": "REVENUE",
+    "amount": "2861.538461538462",
+    "description": "Deposit for #372"
+  },
+  {
+    "date": "2025-06-14",
+    "day": "164",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-06-14",
+    "day": "164",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-06-14",
+    "day": "164",
+    "type": "REVENUE",
+    "amount": "5330.7692307692305",
+    "description": "Deposit for #373"
+  },
+  {
+    "date": "2025-06-15",
+    "day": "165",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-06-15",
+    "day": "165",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-06-15",
+    "day": "165",
+    "type": "REVENUE",
+    "amount": "4546.153846153846",
+    "description": "Final payment for #358"
+  },
+  {
+    "date": "2025-06-15",
+    "day": "165",
+    "type": "COST",
+    "amount": "20000",
+    "description": "Reordered 8 m\u00b3 of American Walnut"
+  },
+  {
+    "date": "2025-06-16",
+    "day": "166",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-06-16",
+    "day": "166",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-06-17",
+    "day": "167",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-06-17",
+    "day": "167",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-06-17",
+    "day": "167",
+    "type": "REVENUE",
+    "amount": "6888.461538461539",
+    "description": "Deposit for #377"
+  },
+  {
+    "date": "2025-06-17",
+    "day": "167",
+    "type": "REVENUE",
+    "amount": "4846.153846153846",
+    "description": "Final payment for #361"
+  },
+  {
+    "date": "2025-06-18",
+    "day": "168",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-06-18",
+    "day": "168",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-06-18",
+    "day": "168",
+    "type": "REVENUE",
+    "amount": "6888.461538461539",
+    "description": "Final payment for #362"
+  },
+  {
+    "date": "2025-06-18",
+    "day": "168",
+    "type": "REVENUE",
+    "amount": "3836.538461538462",
+    "description": "Final payment for #367"
+  },
+  {
+    "date": "2025-06-19",
+    "day": "169",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-06-19",
+    "day": "169",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-06-19",
+    "day": "169",
+    "type": "REVENUE",
+    "amount": "6023.076923076924",
+    "description": "Deposit for #379"
+  },
+  {
+    "date": "2025-06-19",
+    "day": "169",
+    "type": "REVENUE",
+    "amount": "4938.461538461539",
+    "description": "Final payment for #363"
+  },
+  {
+    "date": "2025-06-20",
+    "day": "170",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-06-20",
+    "day": "170",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-06-21",
+    "day": "171",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-06-21",
+    "day": "171",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-06-21",
+    "day": "171",
+    "type": "REVENUE",
+    "amount": "4938.461538461539",
+    "description": "Deposit for #381"
+  },
+  {
+    "date": "2025-06-22",
+    "day": "172",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-06-22",
+    "day": "172",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-06-22",
+    "day": "172",
+    "type": "REVENUE",
+    "amount": "5330.7692307692305",
+    "description": "Deposit for #382"
+  },
+  {
+    "date": "2025-06-22",
+    "day": "172",
+    "type": "REVENUE",
+    "amount": "6103.846153846154",
+    "description": "Final payment for #371"
+  },
+  {
+    "date": "2025-06-22",
+    "day": "172",
+    "type": "REVENUE",
+    "amount": "2861.538461538462",
+    "description": "Final payment for #372"
+  },
+  {
+    "date": "2025-06-23",
+    "day": "173",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-06-23",
+    "day": "173",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-06-24",
+    "day": "174",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-06-24",
+    "day": "174",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-06-24",
+    "day": "174",
+    "type": "REVENUE",
+    "amount": "4546.153846153846",
+    "description": "Deposit for #385"
+  },
+  {
+    "date": "2025-06-25",
+    "day": "175",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-06-25",
+    "day": "175",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-06-25",
+    "day": "175",
+    "type": "REVENUE",
+    "amount": "7673.076923076924",
+    "description": "Deposit for #386"
+  },
+  {
+    "date": "2025-06-26",
+    "day": "176",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-06-26",
+    "day": "176",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-06-26",
+    "day": "176",
+    "type": "REVENUE",
+    "amount": "5330.7692307692305",
+    "description": "Deposit for #387"
+  },
+  {
+    "date": "2025-06-27",
+    "day": "177",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-06-27",
+    "day": "177",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-06-27",
+    "day": "177",
+    "type": "REVENUE",
+    "amount": "5723.076923076924",
+    "description": "Deposit for #388"
+  },
+  {
+    "date": "2025-06-27",
+    "day": "177",
+    "type": "REVENUE",
+    "amount": "6888.461538461539",
+    "description": "Final payment for #377"
+  },
+  {
+    "date": "2025-06-28",
+    "day": "178",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-06-28",
+    "day": "178",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-06-28",
+    "day": "178",
+    "type": "REVENUE",
+    "amount": "5330.7692307692305",
+    "description": "Deposit for #389"
+  },
+  {
+    "date": "2025-06-28",
+    "day": "178",
+    "type": "REVENUE",
+    "amount": "5330.7692307692305",
+    "description": "Final payment for #373"
+  },
+  {
+    "date": "2025-06-29",
+    "day": "179",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-06-29",
+    "day": "179",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-06-29",
+    "day": "179",
+    "type": "REVENUE",
+    "amount": "6103.846153846154",
+    "description": "Deposit for #390"
+  },
+  {
+    "date": "2025-06-30",
+    "day": "180",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-06-30",
+    "day": "180",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-06-30",
+    "day": "180",
+    "type": "COST",
+    "amount": "12000",
+    "description": "Reordered 10 m\u00b3 of Tasmanian Oak"
+  },
+  {
+    "date": "2025-07-01",
+    "day": "181",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-07-01",
+    "day": "181",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-07-01",
+    "day": "181",
+    "type": "REVENUE",
+    "amount": "4938.461538461539",
+    "description": "Final payment for #381"
+  },
+  {
+    "date": "2025-07-02",
+    "day": "182",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-07-02",
+    "day": "182",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-07-02",
+    "day": "182",
+    "type": "REVENUE",
+    "amount": "4846.153846153846",
+    "description": "Deposit for #393"
+  },
+  {
+    "date": "2025-07-03",
+    "day": "183",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-07-03",
+    "day": "183",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-07-03",
+    "day": "183",
+    "type": "REVENUE",
+    "amount": "6023.076923076924",
+    "description": "Final payment for #379"
+  },
+  {
+    "date": "2025-07-04",
+    "day": "184",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-07-04",
+    "day": "184",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-07-04",
+    "day": "184",
+    "type": "REVENUE",
+    "amount": "3011.538461538462",
+    "description": "Deposit for #395"
+  },
+  {
+    "date": "2025-07-04",
+    "day": "184",
+    "type": "COST",
+    "amount": "11200",
+    "description": "Reordered 8 m\u00b3 of Victorian Ash"
+  },
+  {
+    "date": "2025-07-05",
+    "day": "185",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-07-05",
+    "day": "185",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-07-05",
+    "day": "185",
+    "type": "REVENUE",
+    "amount": "3836.538461538462",
+    "description": "Deposit for #397"
+  },
+  {
+    "date": "2025-07-06",
+    "day": "186",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-07-06",
+    "day": "186",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-07-06",
+    "day": "186",
+    "type": "REVENUE",
+    "amount": "4846.153846153846",
+    "description": "Deposit for #398"
+  },
+  {
+    "date": "2025-07-06",
+    "day": "186",
+    "type": "REVENUE",
+    "amount": "4546.153846153846",
+    "description": "Final payment for #385"
+  },
+  {
+    "date": "2025-07-07",
+    "day": "187",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-07-07",
+    "day": "187",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-07-07",
+    "day": "187",
+    "type": "REVENUE",
+    "amount": "5330.7692307692305",
+    "description": "Final payment for #382"
+  },
+  {
+    "date": "2025-07-08",
+    "day": "188",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-07-08",
+    "day": "188",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-07-08",
+    "day": "188",
+    "type": "REVENUE",
+    "amount": "6103.846153846154",
+    "description": "Final payment for #390"
+  },
+  {
+    "date": "2025-07-09",
+    "day": "189",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-07-09",
+    "day": "189",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-07-09",
+    "day": "189",
+    "type": "REVENUE",
+    "amount": "4153.846153846154",
+    "description": "Deposit for #402"
+  },
+  {
+    "date": "2025-07-09",
+    "day": "189",
+    "type": "REVENUE",
+    "amount": "7673.076923076924",
+    "description": "Final payment for #386"
+  },
+  {
+    "date": "2025-07-10",
+    "day": "190",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-07-10",
+    "day": "190",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-07-10",
+    "day": "190",
+    "type": "REVENUE",
+    "amount": "4938.461538461539",
+    "description": "Deposit for #403"
+  },
+  {
+    "date": "2025-07-11",
+    "day": "191",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-07-11",
+    "day": "191",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-07-11",
+    "day": "191",
+    "type": "REVENUE",
+    "amount": "4846.153846153846",
+    "description": "Deposit for #404"
+  },
+  {
+    "date": "2025-07-11",
+    "day": "191",
+    "type": "REVENUE",
+    "amount": "4938.461538461539",
+    "description": "Deposit for #405"
+  },
+  {
+    "date": "2025-07-12",
+    "day": "192",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-07-12",
+    "day": "192",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-07-12",
+    "day": "192",
+    "type": "REVENUE",
+    "amount": "3011.538461538462",
+    "description": "Deposit for #406"
+  },
+  {
+    "date": "2025-07-12",
+    "day": "192",
+    "type": "REVENUE",
+    "amount": "4846.153846153846",
+    "description": "Final payment for #393"
+  },
+  {
+    "date": "2025-07-13",
+    "day": "193",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-07-13",
+    "day": "193",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-07-13",
+    "day": "193",
+    "type": "REVENUE",
+    "amount": "5330.7692307692305",
+    "description": "Final payment for #387"
+  },
+  {
+    "date": "2025-07-13",
+    "day": "193",
+    "type": "REVENUE",
+    "amount": "5330.7692307692305",
+    "description": "Final payment for #389"
+  },
+  {
+    "date": "2025-07-13",
+    "day": "193",
+    "type": "REVENUE",
+    "amount": "3836.538461538462",
+    "description": "Final payment for #397"
+  },
+  {
+    "date": "2025-07-13",
+    "day": "193",
+    "type": "COST",
+    "amount": "12000",
+    "description": "Reordered 10 m\u00b3 of Tasmanian Oak"
+  },
+  {
+    "date": "2025-07-14",
+    "day": "194",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-07-14",
+    "day": "194",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-07-14",
+    "day": "194",
+    "type": "REVENUE",
+    "amount": "3011.538461538462",
+    "description": "Final payment for #395"
+  },
+  {
+    "date": "2025-07-15",
+    "day": "195",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-07-15",
+    "day": "195",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-07-15",
+    "day": "195",
+    "type": "REVENUE",
+    "amount": "6550",
+    "description": "Deposit for #409"
+  },
+  {
+    "date": "2025-07-16",
+    "day": "196",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-07-16",
+    "day": "196",
+    "type": "COST",
+    "amount": "3840",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-07-16",
+    "day": "196",
+    "type": "REVENUE",
+    "amount": "4900",
+    "description": "Deposit for #410"
+  },
+  {
+    "date": "2025-07-16",
+    "day": "196",
+    "type": "REVENUE",
+    "amount": "4500",
+    "description": "Deposit for #411"
+  },
+  {
+    "date": "2025-07-16",
+    "day": "196",
+    "type": "REVENUE",
+    "amount": "5723.076923076924",
+    "description": "Final payment for #388"
+  },
+  {
+    "date": "2025-07-17",
+    "day": "197",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-07-17",
+    "day": "197",
+    "type": "COST",
+    "amount": "3840",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-07-17",
+    "day": "197",
+    "type": "REVENUE",
+    "amount": "7350",
+    "description": "Deposit for #412"
+  },
+  {
+    "date": "2025-07-17",
+    "day": "197",
+    "type": "REVENUE",
+    "amount": "4900",
+    "description": "Deposit for #413"
+  },
+  {
+    "date": "2025-07-17",
+    "day": "197",
+    "type": "REVENUE",
+    "amount": "4846.153846153846",
+    "description": "Final payment for #398"
+  },
+  {
+    "date": "2025-07-17",
+    "day": "197",
+    "type": "COST",
+    "amount": "20000",
+    "description": "Reordered 8 m\u00b3 of American Walnut"
+  },
+  {
+    "date": "2025-07-18",
+    "day": "198",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-07-18",
+    "day": "198",
+    "type": "COST",
+    "amount": "3840",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-07-18",
+    "day": "198",
+    "type": "REVENUE",
+    "amount": "5300",
+    "description": "Deposit for #414"
+  },
+  {
+    "date": "2025-07-18",
+    "day": "198",
+    "type": "REVENUE",
+    "amount": "4153.846153846154",
+    "description": "Final payment for #402"
+  },
+  {
+    "date": "2025-07-18",
+    "day": "198",
+    "type": "COST",
+    "amount": "11200",
+    "description": "Reordered 8 m\u00b3 of Victorian Ash"
+  },
+  {
+    "date": "2025-07-19",
+    "day": "199",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-07-19",
+    "day": "199",
+    "type": "COST",
+    "amount": "3840",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-07-19",
+    "day": "199",
+    "type": "REVENUE",
+    "amount": "7350",
+    "description": "Deposit for #415"
+  },
+  {
+    "date": "2025-07-20",
+    "day": "200",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-07-20",
+    "day": "200",
+    "type": "COST",
+    "amount": "3840",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-07-21",
+    "day": "201",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-07-21",
+    "day": "201",
+    "type": "COST",
+    "amount": "3840",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-07-21",
+    "day": "201",
+    "type": "REVENUE",
+    "amount": "4938.461538461539",
+    "description": "Final payment for #403"
+  },
+  {
+    "date": "2025-07-21",
+    "day": "201",
+    "type": "REVENUE",
+    "amount": "4846.153846153846",
+    "description": "Final payment for #404"
+  },
+  {
+    "date": "2025-07-21",
+    "day": "201",
+    "type": "REVENUE",
+    "amount": "4938.461538461539",
+    "description": "Final payment for #405"
+  },
+  {
+    "date": "2025-07-21",
+    "day": "201",
+    "type": "REVENUE",
+    "amount": "3011.538461538462",
+    "description": "Final payment for #406"
+  },
+  {
+    "date": "2025-07-22",
+    "day": "202",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-07-22",
+    "day": "202",
+    "type": "COST",
+    "amount": "3840",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-07-23",
+    "day": "203",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-07-23",
+    "day": "203",
+    "type": "COST",
+    "amount": "3600",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-07-24",
+    "day": "204",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-07-24",
+    "day": "204",
+    "type": "COST",
+    "amount": "3600",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-07-24",
+    "day": "204",
+    "type": "REVENUE",
+    "amount": "4554.545454545454",
+    "description": "Deposit for #421"
+  },
+  {
+    "date": "2025-07-25",
+    "day": "205",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-07-25",
+    "day": "205",
+    "type": "COST",
+    "amount": "3600",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-07-25",
+    "day": "205",
+    "type": "REVENUE",
+    "amount": "4500",
+    "description": "Final payment for #411"
+  },
+  {
+    "date": "2025-07-26",
+    "day": "206",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-07-26",
+    "day": "206",
+    "type": "COST",
+    "amount": "3840",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-07-26",
+    "day": "206",
+    "type": "REVENUE",
+    "amount": "3050",
+    "description": "Deposit for #424"
+  },
+  {
+    "date": "2025-07-26",
+    "day": "206",
+    "type": "REVENUE",
+    "amount": "6550",
+    "description": "Final payment for #409"
+  },
+  {
+    "date": "2025-07-26",
+    "day": "206",
+    "type": "REVENUE",
+    "amount": "4900",
+    "description": "Final payment for #410"
+  },
+  {
+    "date": "2025-07-26",
+    "day": "206",
+    "type": "COST",
+    "amount": "11200",
+    "description": "Reordered 8 m\u00b3 of Victorian Ash"
+  },
+  {
+    "date": "2025-07-27",
+    "day": "207",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-07-27",
+    "day": "207",
+    "type": "COST",
+    "amount": "3840",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-07-27",
+    "day": "207",
+    "type": "REVENUE",
+    "amount": "3456.818181818182",
+    "description": "Deposit for #425"
+  },
+  {
+    "date": "2025-07-28",
+    "day": "208",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-07-28",
+    "day": "208",
+    "type": "COST",
+    "amount": "3480",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-07-28",
+    "day": "208",
+    "type": "REVENUE",
+    "amount": "2481.818181818182",
+    "description": "Deposit for #426"
+  },
+  {
+    "date": "2025-07-28",
+    "day": "208",
+    "type": "REVENUE",
+    "amount": "4568.181818181818",
+    "description": "Deposit for #427"
+  },
+  {
+    "date": "2025-07-29",
+    "day": "209",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-07-29",
+    "day": "209",
+    "type": "COST",
+    "amount": "3480",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-07-29",
+    "day": "209",
+    "type": "REVENUE",
+    "amount": "4963.636363636364",
+    "description": "Deposit for #428"
+  },
+  {
+    "date": "2025-07-30",
+    "day": "210",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-07-30",
+    "day": "210",
+    "type": "COST",
+    "amount": "3480",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-07-30",
+    "day": "210",
+    "type": "REVENUE",
+    "amount": "3027.272727272727",
+    "description": "Deposit for #430"
+  },
+  {
+    "date": "2025-07-30",
+    "day": "210",
+    "type": "REVENUE",
+    "amount": "4900",
+    "description": "Final payment for #413"
+  },
+  {
+    "date": "2025-07-30",
+    "day": "210",
+    "type": "REVENUE",
+    "amount": "5300",
+    "description": "Final payment for #414"
+  },
+  {
+    "date": "2025-07-31",
+    "day": "211",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-07-31",
+    "day": "211",
+    "type": "COST",
+    "amount": "3480",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-07-31",
+    "day": "211",
+    "type": "REVENUE",
+    "amount": "7350",
+    "description": "Final payment for #412"
+  },
+  {
+    "date": "2025-08-01",
+    "day": "212",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-08-01",
+    "day": "212",
+    "type": "COST",
+    "amount": "3720",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-08-02",
+    "day": "213",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-08-02",
+    "day": "213",
+    "type": "COST",
+    "amount": "3720",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-08-02",
+    "day": "213",
+    "type": "REVENUE",
+    "amount": "3456.818181818182",
+    "description": "Final payment for #425"
+  },
+  {
+    "date": "2025-08-03",
+    "day": "214",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-08-03",
+    "day": "214",
+    "type": "COST",
+    "amount": "3720",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-08-03",
+    "day": "214",
+    "type": "REVENUE",
+    "amount": "7350",
+    "description": "Final payment for #415"
+  },
+  {
+    "date": "2025-08-03",
+    "day": "214",
+    "type": "REVENUE",
+    "amount": "4554.545454545454",
+    "description": "Final payment for #421"
+  },
+  {
+    "date": "2025-08-04",
+    "day": "215",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-08-04",
+    "day": "215",
+    "type": "COST",
+    "amount": "3720",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-08-04",
+    "day": "215",
+    "type": "REVENUE",
+    "amount": "6888.461538461539",
+    "description": "Deposit for #437"
+  },
+  {
+    "date": "2025-08-04",
+    "day": "215",
+    "type": "REVENUE",
+    "amount": "3050",
+    "description": "Final payment for #424"
+  },
+  {
+    "date": "2025-08-04",
+    "day": "215",
+    "type": "REVENUE",
+    "amount": "2481.818181818182",
+    "description": "Final payment for #426"
+  },
+  {
+    "date": "2025-08-05",
+    "day": "216",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-08-05",
+    "day": "216",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-08-05",
+    "day": "216",
+    "type": "REVENUE",
+    "amount": "3836.538461538462",
+    "description": "Deposit for #438"
+  },
+  {
+    "date": "2025-08-05",
+    "day": "216",
+    "type": "REVENUE",
+    "amount": "4453.846153846154",
+    "description": "Deposit for #439"
+  },
+  {
+    "date": "2025-08-06",
+    "day": "217",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-08-06",
+    "day": "217",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-08-06",
+    "day": "217",
+    "type": "REVENUE",
+    "amount": "4153.846153846154",
+    "description": "Deposit for #440"
+  },
+  {
+    "date": "2025-08-06",
+    "day": "217",
+    "type": "COST",
+    "amount": "20000",
+    "description": "Reordered 8 m\u00b3 of American Walnut"
+  },
+  {
+    "date": "2025-08-07",
+    "day": "218",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-08-07",
+    "day": "218",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-08-07",
+    "day": "218",
+    "type": "REVENUE",
+    "amount": "6496.153846153846",
+    "description": "Deposit for #442"
+  },
+  {
+    "date": "2025-08-07",
+    "day": "218",
+    "type": "REVENUE",
+    "amount": "4568.181818181818",
+    "description": "Final payment for #427"
+  },
+  {
+    "date": "2025-08-07",
+    "day": "218",
+    "type": "REVENUE",
+    "amount": "3027.272727272727",
+    "description": "Final payment for #430"
+  },
+  {
+    "date": "2025-08-08",
+    "day": "219",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-08-08",
+    "day": "219",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-08-09",
+    "day": "220",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-08-09",
+    "day": "220",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-08-09",
+    "day": "220",
+    "type": "REVENUE",
+    "amount": "4963.636363636364",
+    "description": "Final payment for #428"
+  },
+  {
+    "date": "2025-08-10",
+    "day": "221",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-08-10",
+    "day": "221",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-08-10",
+    "day": "221",
+    "type": "REVENUE",
+    "amount": "5723.076923076924",
+    "description": "Deposit for #446"
+  },
+  {
+    "date": "2025-08-11",
+    "day": "222",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-08-11",
+    "day": "222",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-08-11",
+    "day": "222",
+    "type": "REVENUE",
+    "amount": "3836.538461538462",
+    "description": "Deposit for #447"
+  },
+  {
+    "date": "2025-08-12",
+    "day": "223",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-08-12",
+    "day": "223",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-08-12",
+    "day": "223",
+    "type": "REVENUE",
+    "amount": "3011.538461538462",
+    "description": "Deposit for #448"
+  },
+  {
+    "date": "2025-08-13",
+    "day": "224",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-08-13",
+    "day": "224",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-08-13",
+    "day": "224",
+    "type": "REVENUE",
+    "amount": "4546.153846153846",
+    "description": "Deposit for #450"
+  },
+  {
+    "date": "2025-08-13",
+    "day": "224",
+    "type": "REVENUE",
+    "amount": "3836.538461538462",
+    "description": "Final payment for #438"
+  },
+  {
+    "date": "2025-08-13",
+    "day": "224",
+    "type": "COST",
+    "amount": "12000",
+    "description": "Reordered 10 m\u00b3 of Tasmanian Oak"
+  },
+  {
+    "date": "2025-08-14",
+    "day": "225",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-08-14",
+    "day": "225",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-08-14",
+    "day": "225",
+    "type": "REVENUE",
+    "amount": "4153.846153846154",
+    "description": "Deposit for #451"
+  },
+  {
+    "date": "2025-08-14",
+    "day": "225",
+    "type": "REVENUE",
+    "amount": "6888.461538461539",
+    "description": "Final payment for #437"
+  },
+  {
+    "date": "2025-08-14",
+    "day": "225",
+    "type": "REVENUE",
+    "amount": "4453.846153846154",
+    "description": "Final payment for #439"
+  },
+  {
+    "date": "2025-08-15",
+    "day": "226",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-08-15",
+    "day": "226",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-08-15",
+    "day": "226",
+    "type": "REVENUE",
+    "amount": "4453.846153846154",
+    "description": "Deposit for #453"
+  },
+  {
+    "date": "2025-08-16",
+    "day": "227",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-08-16",
+    "day": "227",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-08-16",
+    "day": "227",
+    "type": "REVENUE",
+    "amount": "3011.538461538462",
+    "description": "Deposit for #454"
+  },
+  {
+    "date": "2025-08-16",
+    "day": "227",
+    "type": "REVENUE",
+    "amount": "4153.846153846154",
+    "description": "Final payment for #440"
+  },
+  {
+    "date": "2025-08-17",
+    "day": "228",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-08-17",
+    "day": "228",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-08-17",
+    "day": "228",
+    "type": "REVENUE",
+    "amount": "6023.076923076924",
+    "description": "Deposit for #455"
+  },
+  {
+    "date": "2025-08-17",
+    "day": "228",
+    "type": "COST",
+    "amount": "11200",
+    "description": "Reordered 8 m\u00b3 of Victorian Ash"
+  },
+  {
+    "date": "2025-08-18",
+    "day": "229",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-08-18",
+    "day": "229",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-08-19",
+    "day": "230",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-08-19",
+    "day": "230",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-08-19",
+    "day": "230",
+    "type": "REVENUE",
+    "amount": "4938.461538461539",
+    "description": "Deposit for #458"
+  },
+  {
+    "date": "2025-08-20",
+    "day": "231",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-08-20",
+    "day": "231",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-08-20",
+    "day": "231",
+    "type": "REVENUE",
+    "amount": "3836.538461538462",
+    "description": "Final payment for #447"
+  },
+  {
+    "date": "2025-08-21",
+    "day": "232",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-08-21",
+    "day": "232",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-08-21",
+    "day": "232",
+    "type": "REVENUE",
+    "amount": "6496.153846153846",
+    "description": "Final payment for #442"
+  },
+  {
+    "date": "2025-08-22",
+    "day": "233",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-08-22",
+    "day": "233",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-08-22",
+    "day": "233",
+    "type": "REVENUE",
+    "amount": "4846.153846153846",
+    "description": "Deposit for #461"
+  },
+  {
+    "date": "2025-08-23",
+    "day": "234",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-08-23",
+    "day": "234",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-08-23",
+    "day": "234",
+    "type": "REVENUE",
+    "amount": "7465.384615384615",
+    "description": "Deposit for #462"
+  },
+  {
+    "date": "2025-08-23",
+    "day": "234",
+    "type": "REVENUE",
+    "amount": "3011.538461538462",
+    "description": "Final payment for #448"
+  },
+  {
+    "date": "2025-08-24",
+    "day": "235",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-08-24",
+    "day": "235",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-08-24",
+    "day": "235",
+    "type": "REVENUE",
+    "amount": "4546.153846153846",
+    "description": "Deposit for #463"
+  },
+  {
+    "date": "2025-08-24",
+    "day": "235",
+    "type": "REVENUE",
+    "amount": "4153.846153846154",
+    "description": "Final payment for #451"
+  },
+  {
+    "date": "2025-08-24",
+    "day": "235",
+    "type": "REVENUE",
+    "amount": "4453.846153846154",
+    "description": "Final payment for #453"
+  },
+  {
+    "date": "2025-08-24",
+    "day": "235",
+    "type": "REVENUE",
+    "amount": "3011.538461538462",
+    "description": "Final payment for #454"
+  },
+  {
+    "date": "2025-08-25",
+    "day": "236",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-08-25",
+    "day": "236",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-08-25",
+    "day": "236",
+    "type": "REVENUE",
+    "amount": "4546.153846153846",
+    "description": "Final payment for #450"
+  },
+  {
+    "date": "2025-08-26",
+    "day": "237",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-08-26",
+    "day": "237",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-08-26",
+    "day": "237",
+    "type": "COST",
+    "amount": "11200",
+    "description": "Reordered 8 m\u00b3 of Victorian Ash"
+  },
+  {
+    "date": "2025-08-27",
+    "day": "238",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-08-27",
+    "day": "238",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-08-27",
+    "day": "238",
+    "type": "REVENUE",
+    "amount": "6103.846153846154",
+    "description": "Deposit for #466"
+  },
+  {
+    "date": "2025-08-27",
+    "day": "238",
+    "type": "REVENUE",
+    "amount": "6023.076923076924",
+    "description": "Deposit for #467"
+  },
+  {
+    "date": "2025-08-27",
+    "day": "238",
+    "type": "REVENUE",
+    "amount": "5723.076923076924",
+    "description": "Final payment for #446"
+  },
+  {
+    "date": "2025-08-28",
+    "day": "239",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-08-28",
+    "day": "239",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-08-29",
+    "day": "240",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-08-29",
+    "day": "240",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-08-29",
+    "day": "240",
+    "type": "REVENUE",
+    "amount": "4546.153846153846",
+    "description": "Deposit for #469"
+  },
+  {
+    "date": "2025-08-29",
+    "day": "240",
+    "type": "REVENUE",
+    "amount": "6888.461538461539",
+    "description": "Deposit for #470"
+  },
+  {
+    "date": "2025-08-29",
+    "day": "240",
+    "type": "REVENUE",
+    "amount": "4938.461538461539",
+    "description": "Final payment for #458"
+  },
+  {
+    "date": "2025-08-30",
+    "day": "241",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-08-30",
+    "day": "241",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-08-30",
+    "day": "241",
+    "type": "REVENUE",
+    "amount": "6496.153846153846",
+    "description": "Deposit for #471"
+  },
+  {
+    "date": "2025-08-31",
+    "day": "242",
+    "type": "COST",
+    "amount": "300",
+    "description": "Daily Overheads"
+  },
+  {
+    "date": "2025-08-31",
+    "day": "242",
+    "type": "COST",
+    "amount": "4080",
+    "description": "Daily Wages"
+  },
+  {
+    "date": "2025-08-31",
+    "day": "242",
+    "type": "REVENUE",
+    "amount": "6023.076923076924",
+    "description": "Final payment for #455"
+  },
+  {
+    "date": "2025-08-31",
+    "day": "242",
+    "type": "COST",
+    "amount": "12000",
+    "description": "Reordered 10 m\u00b3 of Tasmanian Oak"
+  },
+  {
+    "date": "2025-08-31",
+    "day": "242",
+    "type": "COST",
+    "amount": "20000",
+    "description": "Reordered 8 m\u00b3 of American Walnut"
+  }
+]
